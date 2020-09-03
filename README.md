@@ -71,7 +71,7 @@
 
 <hr>
 
-## `Now , `Express your condition if you understand this previous file` `
+##  Now , `Express your condition if you understand this previous file `
 
  - [ ]  :pensive:  <br>
  - [ ]  :cold_sweat: <br>
