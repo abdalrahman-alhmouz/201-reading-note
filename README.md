@@ -49,10 +49,10 @@
 
 | Lap              | Second Header | .....  |
 |  -----------     | --------------| -------|
-|  CO CELLFJF      | Content Cell  | - [ ]  |
-|  Content Cell    | Content Cell  | - [ ]  |
-|  Content Cell    | Content Cell  | - [ ]  |
-|  Content Cell    | Content Cell  | - [ ]  |
+|  CO CELLFJF      | Content Cell  | - [x]  |
+|  Content Cell    | Content Cell  | - [x]  |
+|  Content Cell    | Content Cell  | - [x]  |
+|  Content Cell    | Content Cell  | - [x]  |
 
 
 
