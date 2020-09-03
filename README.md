@@ -25,7 +25,7 @@
 
 <hr>
 
-#### Here’s where you’ll write your own content '(You can keep the default content for now, if you’d like)'.
+#### Here’s where you’ll write your own content `(You can keep the default content for now, if you’d like)`.
 ![](https://guides.github.com/features/pages/code-editor.png)
 <hr>
 
