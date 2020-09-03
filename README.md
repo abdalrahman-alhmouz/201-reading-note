@@ -69,18 +69,20 @@
 |    Class 14       | Read-14       | 
 |    Class 15       | Read-15       | 
 
-# Now , `Express your condition if you understand this previous file` 
+<hr>
 
- - [ ] :pensive:  <br>
- - [ ] :cold_sweat: <br>
+## `Now , `Express your condition if you understand this previous file` `
+
+ - [ ]  :pensive:  <br>
+ - [ ]  :cold_sweat: <br>
  - [ ]  :dizzy_face:<br>
  - [ ]  :cry: <br>
- - [ ]   :smiley: <br>
- - [ ]   :unamused: <br>
- - [ ] :thumbsup:  <br>
- - [ ] :-1: <br>
+ - [x]  :smiley: <br>
+ - [ ]  :unamused: <br>
+ - [ ]  :thumbsup:  <br>
+ - [ ]  :-1: <br>
  - [ ]  :muscle: <br>
- - [ ]  :one: <br>
+ - [ ]  :100: <br>
 
 
 
