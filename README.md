@@ -43,23 +43,23 @@
 <hr>
 <hr>
 
-# > IN THIS WEBSITE WE'LL TALKING ABOUT ALL THE READING , ON NEW WAY "ON GITHUB" I MEAN IN PROFISHION WAY.
-# >***ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..
+ > IN THIS WEBSITE WE'LL TALKING ABOUT ALL THE READING , ON NEW WAY "ON GITHUB" I MEAN IN PROFISHION WAY.
+ > ***ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..
 
 
-| Lap              | Second Header | .....  |
-|  -----------     | --------------| -------|
-|  CO CELLFJF      | Content Cell  | - [x]  |
-|  Content Cell    | Content Cell  | - [x]  |
-|  Content Cell    | Content Cell  | - [x]  |
-|  Content Cell    | Content Cell  | - [x]  |
+| Lap              | Second Header | 
+|  -----------     | --------------| 
+|  Class 1      | Content Cell  | 
+|  Content Cell    | Content Cell  | 
+|  Content Cell    | Content Cell  | 
+|  Content Cell    | Content Cell  | 
 
 
 
 - [ ] Open a pull request
 
 
-
+- [ ] \(Optional) Open a followup issue
 
 
 
