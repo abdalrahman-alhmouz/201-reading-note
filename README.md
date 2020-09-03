@@ -47,12 +47,12 @@
 # >***ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..
 
 
-| Lap              | Second Header | - [ ]
-|  -----------     | --------------| - [ ]
-|  CO CELLFJF      | Content Cell  | - [ ]
-|  Content Cell    | Content Cell  |
-|  Content Cell    | Content Cell  |
-|  Content Cell    | Content Cell  |
+| Lap              | Second Header | .....  |
+|  -----------     | --------------| -------|
+|  CO CELLFJF      | Content Cell  | - [ ]  |
+|  Content Cell    | Content Cell  | - [ ]  |
+|  Content Cell    | Content Cell  | - [ ]  |
+|  Content Cell    | Content Cell  | - [ ]  |
 
 
 
