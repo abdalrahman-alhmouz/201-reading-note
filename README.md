@@ -51,23 +51,23 @@
  > *ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..*
 
 
-|     Lap                  | Read-Num                |  
-|  ---------------         | --------------          | 
-|    Class 1               | [Read-1]()              | 
-|    Class 2               | [Read-2]()              | 
-|    Class 3               | [Read-3]()              | 
-|    Class 4               | [Read-4]()              | 
-|    Class 5               | [Read-5]()              | 
-|    Class 6               | [Read-6]()              | 
-|    Class 7               | [Read-7]()              | 
-|    Class 8               | [Read-8]()              | 
-|    Class 9               | [Read-9]()              |
-|    Class 10              | [Read-10]()             | 
-|    Class 11              | [Read-11]()             | 
-|    Class 12              | [Read-12]()             | 
-|    Class 13              | [Read-13]()             | 
-|    Class 14              | [Read-14]()             | 
-|    Class 15              | [Read-15]()             | 
+|     Lap                  | Read-Num                                                                |  
+|  ---------------         | --------------                                                          | 
+|    Class 1               | [Read-1](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 2               | [Read-2](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 3               | [Read-3](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 4               | [Read-4](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 5               | [Read-5](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 6               | [Read-6](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 7               | [Read-7](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 8               | [Read-8](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 9               | [Read-9](https://github.com/Dana-Kiswani/201-reading-note)              |
+|    Class 10              | [Read-10](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 11              | [Read-11](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 12              | [Read-12](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 13              | [Read-13](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 14              | [Read-14](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 15              | [Read-15](https://github.com/Dana-Kiswani/201-reading-note)             | 
 
 <hr>
 
