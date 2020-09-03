@@ -1,4 +1,5 @@
 # Code `201` Reading Notes
+
 <hr>
 
 ## Getting Started with _GitHub Pages_
@@ -6,6 +7,7 @@
 ***GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme.
 
 ![]( https://speckyboy.com/wp-content/uploads/2013/03/github-pages-featured-image-screen.png)
+
 <hr>
 
 ''Create Your Website''
@@ -15,7 +17,8 @@
 ![](https://guides.github.com/features/pages/create-new-repo-button.png)
 
 <hr>
-#### On the new _repository_ screen, you need to give this repository a special name to generate your website. <br>
+
+#### On the new _repository_ screen, you need to give this repository a special name to generate your website. 
 ~~The Repo's name cannot be repeated to avoid confusion~~
 
 ![](https://guides.github.com/features/pages/create-new-repo-screen.png)
@@ -34,17 +37,18 @@
 <hr>
 
 ### Making Changes
-> ***One of the first things you can do is remove the default title of your index page, and add a friendlier message to it. Since this is a very quick change _and your first one _ you’re going to make it on the default branch:` main.`***
+> One of the first things you can do is remove the default title of your index page, and add a friendlier message to it. Since this is a very quick change _and your first one _ you’re going to make it on the default branch:` main.`
 
 ##### View the `_config.yml` file by navigating to it in the **Code** tab. You can edit the file by clicking on the pencil icon.
 
 ![](https://guides.github.com/features/pages/edit-file.png)
+
 <hr>
 <hr>
 <hr>
 
  > IN THIS WEBSITE WE'LL TALKING ABOUT ALL THE READING , ON NEW WAY "ON GITHUB" I MEAN IN PROFISHION WAY.
- > ***ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..
+ > *ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..*
 
 
 |     Lap           | Read-Num      |  
