@@ -50,7 +50,7 @@
 | Lap              | Second Header | 
 |  -----------     | --------------| 
 |  Class 1      | Content Cell  | 
-|  Content Cell    | Content Cell  | 
+|  - [ ] \  | Content Cell  | 
 |  Content Cell    | Content Cell  | 
 |  Content Cell    | Content Cell  | 
 
