@@ -47,7 +47,7 @@
  > ***ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..
 
 
-|     Lap           | Read-Num      | 
+|     Lap           | Read-Num      |  
 |  -----------      | --------------| 
 |    Class 1        | Read-1        | 
 |    Class 2        | Read-2        | 
@@ -64,6 +64,29 @@
 |    Class 13       | Read-13       | 
 |    Class 14       | Read-14       | 
 |    Class 15       | Read-15       | 
+
+# Now , `Express your condition if you understand this previous file` 
+
+ - [ ] :pensive:  <br>
+ - [ ] :cold_sweat: <br>
+ - [ ]  :dizzy_face:<br>
+ - [ ]  :cry: <br>
+ - [ ]   :smiley: <br>
+ - [ ]   :unamused: <br>
+ - [ ] :thumbsup:  <br>
+ - [ ] :-1: <br>
+ - [ ]  :muscle: <br>
+ - [ ]  :one: <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
