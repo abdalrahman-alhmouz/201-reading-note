@@ -11,7 +11,7 @@
 <hr>
 
 ```Create Your Website```
-***Once you’ve signed in, you’ll create a new repository to get started.
+***Once you’ve signed in, you’ll create a new repository to get started.***
 <hr>
 
 ![](https://guides.github.com/features/pages/create-new-repo-button.png)
