@@ -3,7 +3,8 @@
 
 
 
-# How the Web Works
+# How the Web Works :incoming_envelope:
+
 
 > When you visit a website, the web server  <br>
 > hosting that site could be anywhere in the <br>
@@ -51,13 +52,7 @@
 <br>
 <hr>
 
-
-
-
-
-
-
-
+## Extra Markup :speech_balloon:
 
 
 ![](https://www.codeinbook.com/images/element-and-tag-graphics.png) <br>
