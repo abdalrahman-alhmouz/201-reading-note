@@ -32,7 +32,7 @@
 ## Getting Started with _GitHub Pages_
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <hr>
