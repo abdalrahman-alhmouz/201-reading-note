@@ -97,6 +97,8 @@
 ![](https://i2.wp.com/bootstrapcreative.com/wp-bc/wp-content/uploads/2018/05/Screen-Shot-2018-05-03-at-5.09.57-AM.png?fit=1350%2C838&ssl=1) 
 
 <br>
+![](https://image.tubefr.com/upload/1/b4/1b4228eb4206bc3fcd3eee50f0ed67eb.gif)
+<br>
 <hr>
 
 # HTML Layout `(traditional structure)` :bulb:
