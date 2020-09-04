@@ -310,7 +310,7 @@ You can specify that a script should run when a specific event has occurred. For
 
 
 
-<button> bu <\button>
+<button>
 
 
 
