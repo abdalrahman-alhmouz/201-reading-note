@@ -30,10 +30,16 @@
 <br>
 <hr>
 
-### Some of `HTML` Syntax 
+###  `HTML` Structure .. 
 <br>
 
 ![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
+
+
+
+```
+Because there have been several versions of HTML, each web page should begin with a `DOCTYPE` declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
+```
 
 ![](https://www.codeinbook.com/images/element-and-tag-graphics.png) <br>
 
@@ -43,12 +49,6 @@
  
 ![](https://i2.wp.com/bootstrapcreative.com/wp-bc/wp-content/uploads/2018/05/Screen-Shot-2018-05-03-at-5.09.57-AM.png?fit=1350%2C838&ssl=1) 
 <br>
-
-```
-Because there have been several versions of HTML, each web page should begin with a `DOCTYPE` declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
-```
-
-
 
 
 
