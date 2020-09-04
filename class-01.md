@@ -19,6 +19,8 @@
 
 # `HTML` Describes the Structure of Pages :bulb:
 
+![](https://i.gifer.com/5QU0.gif)
+
 ```
 - HTML stands for Hyper Text Markup Language
 
