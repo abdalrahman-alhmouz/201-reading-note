@@ -256,10 +256,12 @@ You can specify that a script should run when a specific event has occurred. For
 
 ##### Function expressions
 #### Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
-
-> const square = function(number) { return number * number }
-> var x = square(4) // x gets the value 16
-
+```ruby
+ const square = function(number)
+ { return number * number }
+ var x = square(4)
+ // x gets the value 16
+```
 <hr>
 <br>
 
