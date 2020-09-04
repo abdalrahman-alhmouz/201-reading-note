@@ -329,8 +329,8 @@ You can specify that a script should run when a specific event has occurred. For
 <hr>
 # play  :arrow_forward:
 
-[![IMAGE ALT TEXT](https://i.gifer.com/5QU0.gif)](https://youtu.be/mzPxo7Y6JyA "Video Title")
-![](https://i.gifer.com/5QU0.gif)
+[![IMAGE ALT TEXT](https://i.gifer.com/5QU0.gif)](https://youtu.be/mzPxo7Y6JyA )
+
 <hr>
 
 ![](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Crying-Baby-Page.gif)
