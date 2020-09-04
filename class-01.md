@@ -274,46 +274,56 @@ You can specify that a script should run when a specific event has occurred. For
  - [ ] Hyper text markup language
 
 
-> :two: 
+> :two: Choose the correct HTML element for the largest heading?
+ - [ ] <head>
+ - [ ] <h1>
+ - [ ] <h6>
+
+> :three: Which character is used to indicate an end tag?
+ - [ ] +
+ - [ ] ^
+ - [ ] /
+
+
+> :four: How can you make a numbered list?
+ - [ ] <ul>
+ - [ ] <ol>
+ - [ ] <list>
+
+
+> :five: An <iframe> is used to display a web page within a web page.
+ - [ ] TRUE
+ - [ ] FALSE
 
 
 
-> :three:
+> :six: HTML comments start with `<!-- and end with -->`
+ - [ ] TRUE
+ - [ ] FALSE
 
 
-
-> :four:
-
-
-
-> :five:
+> :seven: Which HTML element defines the title of a document?
+ - [ ] <title>
+ - [ ] <meta>
+ - [ ] <head>
 
 
-
-> :six:
-
-
-
-> :seven:
+> :eight: Which HTML element is used to specify a footer for a document or section?
+ - [ ] <bottom>
+ - [ ] <footer>
+ - [ ] <section>
 
 
-
-> :eight:
-
-
-
-> :nine:
-
+> :nine:Inside which HTML element do we put the JavaScript?
+ - [ ] <js>
+ - [ ] <scriping>
+ - [ ] <script>
+ - [ ] <javascript>
   
-> :keycap_ten:
-
-
-
-
-<button>
-
-
-
+> :keycap_ten: Where is the correct place to insert a JavaScript?
+ - [ ] The <head> section
+ - [ ] The <body> section
+ - [ ] Both !
 
 
 
