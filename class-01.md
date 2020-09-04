@@ -75,82 +75,14 @@
 <hr>
 
 ![](https://i2.wp.com/bootstrapcreative.com/wp-bc/wp-content/uploads/2018/05/Screen-Shot-2018-05-03-at-5.09.57-AM.png?fit=1350%2C838&ssl=1) 
+
 <br>
 <hr>
 
+# HTML Layout `(traditional structure)` :bulb:
+![](https://i.pinimg.com/736x/36/ae/d0/36aed058a33efa95cc984eb277d410b0.jpg)
 
-<
->
-&
-"
-¢
-£
-¥
-¤
-©
-®
-™
-‘
-'
-“
-”
-×÷
-Less-than sign
-&lt;
-&#60;
-Greater-than sign
-&gt;
-&amp;
-Ampersand
-&amp;
-&#38;
-Quotation mark
-&quot;
-&#34;
-Cent sign
-&cent;
-&#162;
-Pound sign
-&pound;
-&#163;
-Yen sign
-&yen;
-&#165;
-Euro sign
-&euro;
-&#8364;
-Copyright symbol
-&copy;
-&#169;
-Registered trademark
-&reg;
-&#174;
-Trademark
-&trade;
-&#8482;
-Left single quote
-&lsquo;
-&#8216;
-Right single quote
-&rsquo;
-&#8217;
-Left double quotes
-&ldquo;
-&#8220;
-Right double quotes
-&rdquo;
-&#8221;
-Multiplication sign
-&times;
-&#215;
-Division sign
-&divide;
-&#247;
-
-
-
-
-
+<hr>
 
 
 
