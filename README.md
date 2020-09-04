@@ -24,7 +24,7 @@
 |    Class 15              | [Read-15]()             | 
 
 <hr>
-[![Watch the video](https://freefrontend.com/assets/img/css-buttons/play-button-4.gif)](https://youtu.be/2MsN8gpT6jY)
+[![Watch the video](https://static.dribbble.com/users/1028589/screenshots/3155170/jaaqobvideoplay-2dribbble_3.gif)](https://youtu.be/2MsN8gpT6jY)
 
 <hr>
 
