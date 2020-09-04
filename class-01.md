@@ -136,6 +136,129 @@ Attention is immediately drawn to a picture that shows the service this company 
 ![](https://media.wired.com/photos/59322df1a312645844993529/master/pass/testing.gif)
 
 <hr>
+# How JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.
+
+![](https://images.spot.im/v1/production/w2lkh6k2gyhdmhm6cuis) 
+
+## 1 ACCESS CONTENT
+You can use JavaScript to select any element, attribute, or text from an HTML page. For example:
+- Select the text inside all of the <hl> elements on a page
+  
+  
+## 2 MODIFY CONTENT
+You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
+- Add a paragraph of text after the first <hl> element
+- Change the value of
+  
+  
+## 3 PROGRAM RULES
+You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example:
+- A gallery script could check which image a user clicked on and display a larger version of that image.
+- A mortgage calculator could collect
+
+## 4 REACT TO EVENTS
+You can specify that a script should run when a specific event has occurred. For example, it could be run when:
+- A button is pressed
+- A link is clicked (or tapped) on
+- A cursor hovers over an element
+- Information is added to a form
+
+
+
+
+
+
+
+### ***Being able to change the content of an HTML page while it is loaded in the browser is very powerful. ***
+***Access*** the content of the page
+***Modify*** the content of the page
+***Program*** rules or instructions the browser can follow
+***React*** to events triggered by the user or browser
+
+
+
+
+
+
+> Each version of a web browser adds new features. Often these new features make tasks easier, or are considered better, than using older techniques.
+
+
+# But, ***website visitors do not always keep up with the latest browser releases, so website developers cannot always rely upon the latest technologies.***
+
+
+
+# WRITING A SCRIPT
+
+
+***Start with the big picture of what you want to achieve, and break that down into smaller steps.***
+
+
+#### 1: DEFINE THE GOAL
+>First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
+
+#### 2: DESIGN THE SCRIPT
+> To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart
+
+#### 3: CODE EACH STEP
+Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
+
+![](https://image1.slideserve.com/2410672/slide2-l.jpg)
+
+
+
+ > ***You*** should know that Computers solve problems programmatically; they follow series of instructions, one after another. The type of instructions they need are often different to the type of instructions you might give to another human.so You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them.
+
+
+
+
+# OPERATORS
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-Operators.jpg)
+##### JavaScript includes operators as in other languages. An operator performs some operation on single or multiple operands (data value) and produces a result.
+# Arithmetic Operators
+> var x = 5, y = 10, z = 15;
+
+# Comparison Operators
+> var a = 5, b = 10, c = "5";
+> var x = a;
+
+# Logical Operators
+
+> var a = 5, b = 10;
+
+> (a != b) && (a < b);
+
+
+# Assignment Operators
+
+>var x = 5, y = 10, z = 15;
+
+> x = y; //x would be 10
+
+> x += 1;
+
+# Function
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-function-tutorial-1024x536.jpg)
+
+ > ***A function in JavaScript is similar to a procedure — a set of statements that performs a task or calculates a value,  it should take some input and return an output where there is some obvious relationship between the input and the output.***
+ 
+##### For example, the following code defines a simple function named square:
+
+> function square(number) {
+  > return number * number;
+> }
+
+
+![](https://www.miltonmarketing.com/wp-content/uploads/2018/04/mmjavascriptfunctions234234234functions-min.png)
+
+
+
+##### Function expressions
+#### Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
+
+> const square = function(number) { return number * number }
+> var x = square(4) // x gets the value 16
+
+<hr>
 <br>
 
 ![](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Crying-Baby-Page.gif)
