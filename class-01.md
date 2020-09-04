@@ -17,6 +17,9 @@
 
 <hr>
 
+# ```Before starting the design and going into the coding stage, you have to ask yourself many questions that will collect your business structure and that will facilitate the next steps in your project ..```
+<hr>
+
 # `HTML` Describes the Structure of Pages :bulb:
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35d0ca41474775.57a7e879592f8.gif)
