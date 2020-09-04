@@ -126,8 +126,12 @@ Attention is immediately drawn to a picture that shows the service this company 
  At the top you can see the logo and navigation. Under this is the information that introduces the company's services.
 ```
 <hr>
+<hr>
+<hr>
 
 ![](https://media2.giphy.com/media/L6EoLS78pcBag/200.gif)
+
+##  NOWWW..  Now we will talk about the most important part of your site ,, :signal_strength:
 
 
 
