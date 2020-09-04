@@ -1,6 +1,8 @@
 # << `HTML` & `JAVASCRIPT` >>
 <hr>
 
+
+
 # How the Web Works
 
 > When you visit a website, the web server  <br>
@@ -36,7 +38,7 @@
 ![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
 
 
-
+<hr>
 
 > Because there have been several versions of HTML,,
 > each web page should begin with a `DOCTYPE` declaration to tell a browser which version of HTML the page is using
@@ -45,8 +47,9 @@
 
 ![](https://www.sga.su/wp-content/uploads/2018/06/Browser_support_DOCTYPE_tag.png)
 
-
-
+<br>
+<br>
+<hr>
 
 
 
