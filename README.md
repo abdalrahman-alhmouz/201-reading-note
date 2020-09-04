@@ -1,6 +1,31 @@
 # Code `201` Reading Notes
 
+
+> ON `201` WE'LL TALKING ABOUT ALL THE READING , ON NEW WAY "ON GITHUB" I MEAN IN PROFISHION WAY.
+ > *ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..*
+
+
+|     Lap                  | Read-Num                                                                |  
+|  ---------------         | --------------                                                          | 
+|    Class 1               | [Read-1](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 2               | [Read-2](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 3               | [Read-3](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 4               | [Read-4](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 5               | [Read-5](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 6               | [Read-6](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 7               | [Read-7](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 8               | [Read-8](https://github.com/Dana-Kiswani/201-reading-note)              | 
+|    Class 9               | [Read-9](https://github.com/Dana-Kiswani/201-reading-note)              |
+|    Class 10              | [Read-10](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 11              | [Read-11](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 12              | [Read-12](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 13              | [Read-13](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 14              | [Read-14](https://github.com/Dana-Kiswani/201-reading-note)             | 
+|    Class 15              | [Read-15](https://github.com/Dana-Kiswani/201-reading-note)             | 
+
 <hr>
+
+
 
 ## Getting Started with _GitHub Pages_
 
@@ -47,29 +72,7 @@
 <hr>
 <hr>
 
- > IN THIS WEBSITE WE'LL TALKING ABOUT ALL THE READING , ON NEW WAY "ON GITHUB" I MEAN IN PROFISHION WAY.
- > *ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..*
-
-
-|     Lap                  | Read-Num                                                                |  
-|  ---------------         | --------------                                                          | 
-|    Class 1               | [Read-1](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 2               | [Read-2](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 3               | [Read-3](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 4               | [Read-4](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 5               | [Read-5](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 6               | [Read-6](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 7               | [Read-7](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 8               | [Read-8](https://github.com/Dana-Kiswani/201-reading-note)              | 
-|    Class 9               | [Read-9](https://github.com/Dana-Kiswani/201-reading-note)              |
-|    Class 10              | [Read-10](https://github.com/Dana-Kiswani/201-reading-note)             | 
-|    Class 11              | [Read-11](https://github.com/Dana-Kiswani/201-reading-note)             | 
-|    Class 12              | [Read-12](https://github.com/Dana-Kiswani/201-reading-note)             | 
-|    Class 13              | [Read-13](https://github.com/Dana-Kiswani/201-reading-note)             | 
-|    Class 14              | [Read-14](https://github.com/Dana-Kiswani/201-reading-note)             | 
-|    Class 15              | [Read-15](https://github.com/Dana-Kiswani/201-reading-note)             | 
-
-<hr>
+ 
 
 ##  Now , `Express your condition if you understand this previous file `
 
