@@ -262,6 +262,11 @@ You can specify that a script should run when a specific event has occurred. For
  var x = square(4)
  // x gets the value 16
 ```
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--44yasyNX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://devtolydiahallie.s3-us-west-1.amazonaws.com/gid1.6.gif)
+
+<br>
+
 <hr>
 
 # ***:red_circle:  :large_blue_circle:  :black_circle: Now I wanna ask you to take this test, to assess whether you understood the lesson or not ..***
@@ -269,61 +274,54 @@ You can specify that a script should run when a specific event has occurred. For
 ##  :interrobang: 
 
 > :one: What does HTML stand for?
- - [ ] Hyberlinks and text markup language
- - [ ] Home tool markup language
- - [ ] Hyper text markup language
+- [ ] Hyberlinks and text markup language
+- [ ] Home tool markup language
+- [ ] Hyper text markup language
 
 
 > :two: Choose the correct HTML element for the largest heading?
- - [ ] <head>
- - [ ] <h1>
- - [ ] <h6>
+- [ ] <head>
+- [ ] <h1>
+- [ ] <h6>
 
 > :three: Which character is used to indicate an end tag?
- - [ ] +
- - [ ] ^
- - [ ] /
-
+- [ ] +
+- [ ] ^
+- [ ] /
 
 > :four: How can you make a numbered list?
- - [ ] <ul>
- - [ ] <ol>
- - [ ] <list>
-
+- [ ] <ul>
+- [ ] <ol>
+- [ ] <list>
 
 > :five: An <iframe> is used to display a web page within a web page.
- - [ ] TRUE
- - [ ] FALSE
-
-
+- [ ] TRUE
+- [ ] FALSE
 
 > :six: HTML comments start with `<!-- and end with -->`
- - [ ] TRUE
- - [ ] FALSE
-
+- [ ] TRUE
+- [ ] FALSE
 
 > :seven: Which HTML element defines the title of a document?
- - [ ] <title>
- - [ ] <meta>
- - [ ] <head>
-
+- [ ] <title>
+- [ ] <meta>
+- [ ] <head>
 
 > :eight: Which HTML element is used to specify a footer for a document or section?
- - [ ] <bottom>
- - [ ] <footer>
- - [ ] <section>
-
+- [ ] <bottom>
+- [ ] <footer>
+- [ ] <section>
 
 > :nine:Inside which HTML element do we put the JavaScript?
- - [ ] <js>
- - [ ] <scriping>
- - [ ] <script>
- - [ ] <javascript>
+- [ ] <js>
+- [ ] <scriping>
+- [ ] <script>
+- [ ] <javascript>
   
 > :keycap_ten: Where is the correct place to insert a JavaScript?
- - [ ] The <head> section
- - [ ] The <body> section
- - [ ] Both !
+- [ ] The <head> section
+- [ ] The <body> section
+- [ ] Both !
 
 
 
