@@ -17,7 +17,8 @@
 
 <hr>
 
-# ```Before starting the design and going into the coding stage, you have to ask yourself many questions that will collect your business structure and that will facilitate the next steps in your project .. :bomb: ```
+# ```Before starting the design and going into the coding stage, you have to ask yourself many questions that will collect your business structure and that will facilitate the next steps in your project ..  ``` :bomb:
+
 
 # Target Audience: individuals
 - What is the age range of your target audience?
