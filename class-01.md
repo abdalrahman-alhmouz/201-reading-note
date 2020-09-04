@@ -29,16 +29,16 @@
 <br> 
 <br>
 <hr>
-> Some of `HTML` Syntax :
-![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg)
-![](https://www.codeinbook.com/images/element-and-tag-graphics.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HTML_element_structure.svg/1200px-HTML_element_structure.svg.png)
-![](https://alleasytricks.files.wordpress.com/2015/02/page_structure_example.jpg)
-![](https://miro.medium.com/max/696/0*tZQ9RgXIZVQc9dr9)
-![](https://clearlydecoded.com/assets/images/posts/2017-09-04-anatomy-of-html-tag/html-tag-attributes.png)
-![](https://lh3.googleusercontent.com/proxy/9IaxeQtOMf_qnZOF6bJasahKON6-OO4edxV5rp6rhH1j4JiXuCt9W8qJ3pvUQ47Wx3BlN9b1_shIwGtopmkd97eo3FGjfLNt3sIvc3929jO6B7LJLX6XobWi8xNCrcgOuFcgTQTXEmvl0axZLTFUFnna5l3Nz4syW2vEtG_I)
-![DANAAAAAAAAAAAAAAAA]()
-
+> Some of `HTML` Syntax : <br>
+![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
+![](https://www.codeinbook.com/images/element-and-tag-graphics.png) <br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HTML_element_structure.svg/1200px-HTML_element_structure.svg.png) <br>
+![](https://alleasytricks.files.wordpress.com/2015/02/page_structure_example.jpg) <br>
+![](https://miro.medium.com/max/696/0*tZQ9RgXIZVQc9dr9) <br>
+![](https://clearlydecoded.com/assets/images/posts/2017-09-04-anatomy-of-html-tag/html-tag-attributes.png) <br>
+ 
+![DANAAAAAAAAAAAAAAAA]() 
+<br>
 
 
 
