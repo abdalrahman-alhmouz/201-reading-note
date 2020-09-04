@@ -36,7 +36,7 @@
 <hr>
 
 ###  `HTML` Structure .. :bulb:
-
+![](https://www.nobledesktop.com/image/classExamples/html-intro/html-intro.gif)
 <br>
 
 ![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
