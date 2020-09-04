@@ -37,8 +37,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HTML_element_structure.svg/1200px-HTML_element_structure.svg.png) <br>
 
-![](https://alleasytricks.files.wordpress.com/2015/02/page_structure_example.jpg) <br>
-
 ![](https://clearlydecoded.com/assets/images/posts/2017-09-04-anatomy-of-html-tag/html-tag-attributes.png) <br>
  
 ![DANAAAAAAAAAAAAAAAA]() 
