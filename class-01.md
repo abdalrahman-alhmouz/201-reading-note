@@ -278,11 +278,14 @@ You can specify that a script should run when a specific event has occurred. For
 - [ ] Home tool markup language
 - [ ] Hyper text markup language
 
+<br>
 
 > :two: Choose the correct HTML element for the largest heading?
-- [ ] <head>
-- [ ] <h1>
-- [ ] <h6>
+- [ ] `<head>`
+- [ ] `<h1>`
+- [ ] `<h6>`
+
+<br> 
 
 > :three: Which character is used to indicate an end tag?
 - [ ] +
