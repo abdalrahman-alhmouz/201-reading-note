@@ -24,4 +24,4 @@
 - HTML elements are represented by <> tags
 ```
 
-
+![](https://1.bp.blogspot.com/-2qZQp4Lpruw/W6TwSKDKCAI/AAAAAAAABz4/qqCRmnYFHdskstuMmNwyU0_q06KSp0pAACLcBGAs/s1600/what-is-html.jpg)
