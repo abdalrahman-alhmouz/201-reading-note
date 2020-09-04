@@ -336,11 +336,11 @@ You can specify that a script should run when a specific event has occurred. For
 
 # play  :arrow_forward:
 
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> 
- 
- </iframe>
-
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 
