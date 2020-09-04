@@ -244,18 +244,18 @@ You can specify that a script should run when a specific event has occurred. For
  > ***A function in JavaScript is similar to a procedure — a set of statements that performs a task or calculates a value,  it should take some input and return an output where there is some obvious relationship between the input and the output.***
  
 ##### For example, the following code defines a simple function named square:
-
+```ruby
 > function square(number) {
   > return number * number;
 > }
-
+```
 
 ![](https://www.miltonmarketing.com/wp-content/uploads/2018/04/mmjavascriptfunctions234234234functions-min.png)
 
 
 
-##### Function expressions
-#### Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
+## Function expressions
+#### > Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
 ```ruby
  const square = function(number)
  { return number * number }
