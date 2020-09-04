@@ -1,4 +1,5 @@
-# << `HTML` & `JAVASCRIPT` >>
+# << `HTML` & `JAVASCRIPT` >>  :bulb:
+
 <hr>
 
 
@@ -16,7 +17,8 @@
 
 <hr>
 
-# `HTML` Describes the Structure of Pages
+# `HTML` Describes the Structure of Pages :bulb:
+
 ```
 - HTML stands for Hyper Text Markup Language
 
@@ -33,7 +35,8 @@
 <br>
 <hr>
 
-###  `HTML` Structure .. 
+###  `HTML` Structure .. :bulb:
+
 <br>
 
 ![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
