@@ -24,7 +24,9 @@
 |    Class 15              | [Read-15]()             | 
 
 <hr>
+[![Watch the video](https://freefrontend.com/assets/img/css-buttons/play-button-4.gif)](https://youtu.be/2MsN8gpT6jY)
 
+<hr>
 
 
 ## Getting Started with _GitHub Pages_
