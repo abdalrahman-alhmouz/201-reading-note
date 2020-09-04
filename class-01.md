@@ -43,7 +43,8 @@
 
 
 <hr>
-##### DOCTYPE ,, :mag_right:
+
+#####  DOCTYPE,, :mag_right:
 
 > Because there have been several versions of HTML,,
 > each web page should begin with a `DOCTYPE` declaration to tell a browser which version of HTML the page is using
