@@ -29,7 +29,9 @@
 <br> 
 <br>
 <hr>
-> Some of `HTML` Syntax : <br>
+
+> Some of `HTML` Syntax 
+<br>
 
 ![](https://technostarkz.in/wp-content/uploads/2016/04/html-tags.jpg) <br>
 
