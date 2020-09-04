@@ -26,7 +26,7 @@
 
 
 
-![image alternative text](/path/to/image.png){: .shadow}
+![image alternative text](https://d33v4339jhl8k0.cloudfront.net/docs/assets/57e5481ec697914f21030b68/images/5efd54d12c7d3a10cba9e2f6/file-5XMpiIfIH7.png){: .shadow}
 
 
 
