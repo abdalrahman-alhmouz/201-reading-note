@@ -34,7 +34,6 @@
 - What kind of device do they use to access the web?
 
 <hr>
-<---->
 <hr>
 
 # `HTML` Describes the Structure of Pages :bulb:
