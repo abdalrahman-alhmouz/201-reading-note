@@ -164,20 +164,20 @@ You can specify that a script should run when a specific event has occurred. For
 - A cursor hovers over an element
 - Information is added to a form
 
+<hr>
 
 
 
 
 
-
-### ***Being able to change the content of an HTML page while it is loaded in the browser is very powerful. ***
+###  ***Being able to change the content of an HTML page while it is loaded in the browser is very powerful.***
 ***Access*** the content of the page
 ***Modify*** the content of the page
 ***Program*** rules or instructions the browser can follow
 ***React*** to events triggered by the user or browser
 
 
-
+<hr>
 
 
 
@@ -187,6 +187,7 @@ You can specify that a script should run when a specific event has occurred. For
 # But, ***website visitors do not always keep up with the latest browser releases, so website developers cannot always rely upon the latest technologies.***
 
 
+<hr>
 
 # WRITING A SCRIPT
 
@@ -195,13 +196,13 @@ You can specify that a script should run when a specific event has occurred. For
 
 
 #### 1: DEFINE THE GOAL
->First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
+> First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
 
 #### 2: DESIGN THE SCRIPT
 > To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart
 
 #### 3: CODE EACH STEP
-Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
+> Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
 
 ![](https://image1.slideserve.com/2410672/slide2-l.jpg)
 
