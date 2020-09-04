@@ -133,7 +133,7 @@ Attention is immediately drawn to a picture that shows the service this company 
 
 ##  NOWWW..  Now we will talk about the most important part of your site ,, :signal_strength:
 
-
+![](https://media.wired.com/photos/59322df1a312645844993529/master/pass/testing.gif)
 
 
 
