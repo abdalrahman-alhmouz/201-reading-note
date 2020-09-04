@@ -17,7 +17,22 @@
 
 <hr>
 
-# ```Before starting the design and going into the coding stage, you have to ask yourself many questions that will collect your business structure and that will facilitate the next steps in your project ..```
+# ```Before starting the design and going into the coding stage, you have to ask yourself many questions that will collect your business structure and that will facilitate the next steps in your project .. :bomb: ```
+
+# Target Audience: individuals
+- What is the age range of your target audience?
+- Will your site appeal to more women or men? What is the mix?
+- Which country do your visitors live in?
+- Do they live in urban or rural areas?
+- What is the average income of visitors?
+- What level of education do they have?
+- What is their marital or family status?
+- What is their occupation?
+- How many hours do they work per week?
+- How often do they use the web?
+- What kind of device do they use to access the web?
+
+<hr>
 <hr>
 
 # `HTML` Describes the Structure of Pages :bulb:
@@ -89,18 +104,7 @@
 
 <hr>
 
-# Target Audience: individuals
-- What is the age range of your target audience?
-- Will your site appeal to more women or men? What is the mix?
-- Which country do your visitors live in?
-- Do they live in urban or rural areas?
-- What is the average income of visitors?
-- What level of education do they have?
-- What is their marital or family status?
-- What is their occupation?
-- How many hours do they work per week?
-- How often do they use the web?
-- What kind of device do they use to access the web?
+
 
 
 
