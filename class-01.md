@@ -263,7 +263,12 @@ You can specify that a script should run when a specific event has occurred. For
  // x gets the value 16
 ```
 <hr>
-<br>
+
+# ***:red_circle:  :large_blue_circle:  :black_circle: Now I will ask you to take this test, to assess whether you understood the lesson or not ..***
+
+
+
+<hr>
 
 ![](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Crying-Baby-Page.gif)
 
