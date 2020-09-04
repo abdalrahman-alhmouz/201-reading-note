@@ -14,6 +14,14 @@
 <hr>
 
 # `HTML` Describes the Structure of Pages
+```
+HTML stands for Hyper Text Markup Language
+
+HTML is the standard markup language for Web pages
+
+HTML elements are the building blocks of HTML pages
+
+HTML elements are represented by <> tags
+```
 
 
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=CKlh1lwe2rY&ab_channel=HowcastTechGadgets)](https://www.youtube.com/watch?v=CKlh1lwe2rY&ab_channel=HowcastTechGadgets "Video Title")
