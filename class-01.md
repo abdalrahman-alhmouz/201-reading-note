@@ -16,4 +16,4 @@
 # `HTML` Describes the Structure of Pages
 
 
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=CKlh1lwe2rY&ab_channel=HowcastTechGadgets)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=CKlh1lwe2rY&ab_channel=HowcastTechGadgets)](https://www.youtube.com/watch?v=CKlh1lwe2rY&ab_channel=HowcastTechGadgets "Video Title")
