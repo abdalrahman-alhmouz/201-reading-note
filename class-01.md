@@ -111,7 +111,21 @@
 
 <hr>
 
+# Do you know how design can be used to effectively communicate the services of a company..! :bulb:
 
+# # FIRST ..
+## ***Visual hierarchy :paperclip: ***  
+
+```
+Attention is immediately drawn to a picture that shows the service this company offers and a headline to explain it. The size and colored background reinforce that this is the primary message on the page. Should this service appeal to the user, below they can see more detail about what it does, how much it costs, and who uses it.
+```
+# SECOND ..
+## ***Grouping :paperclip: ***
+
+```
+ At the top you can see the logo and navigation. Under this is the information that introduces the company's services.
+```
+<hr>
 
 
 
