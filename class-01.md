@@ -15,18 +15,5 @@
 
 # `HTML` Describes the Structure of Pages
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #tanuki-purple}
-
-
-
-![image alternative text](https://d33v4339jhl8k0.cloudfront.net/docs/assets/57e5481ec697914f21030b68/images/5efd54d12c7d3a10cba9e2f6/file-5XMpiIfIH7.png){: .shadow}
-
-
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
