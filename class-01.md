@@ -59,11 +59,13 @@
 ## Extra Markup :speech_balloon:
 
 
-![](https://www.codeinbook.com/images/element-and-tag-graphics.png) <br>
+![Paragraph](https://www.codeinbook.com/images/element-and-tag-graphics.png) <br>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HTML_element_structure.svg/1200px-HTML_element_structure.svg.png) <br>
 
 ![](https://clearlydecoded.com/assets/images/posts/2017-09-04-anatomy-of-html-tag/html-tag-attributes.png) <br>
+
+![html/comment](https://www.kullabs.com/uploads/html-comment.gif)
  
 ![](https://i2.wp.com/bootstrapcreative.com/wp-bc/wp-content/uploads/2018/05/Screen-Shot-2018-05-03-at-5.09.57-AM.png?fit=1350%2C838&ssl=1) 
 <br>
