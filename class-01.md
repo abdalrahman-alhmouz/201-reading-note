@@ -293,37 +293,37 @@ You can specify that a script should run when a specific event has occurred. For
 - [ ] /
 
 > :four: How can you make a numbered list?
-- [ ] <ul>
-- [ ] <ol>
-- [ ] <list>
+- [ ] `<ul>`
+- [ ] `<ol>`
+- [ ] `<list>`
 
 > :five: An <iframe> is used to display a web page within a web page.
-- [ ] TRUE
-- [ ] FALSE
+- [ ] `TRUE`
+- [ ] `FALSE`
 
 > :six: HTML comments start with `<!-- and end with -->`
 - [ ] TRUE
 - [ ] FALSE
 
 > :seven: Which HTML element defines the title of a document?
-- [ ] <title>
-- [ ] <meta>
-- [ ] <head>
+- [ ] `<title>`
+- [ ] `<meta>`
+- [ ] `<head>`
 
 > :eight: Which HTML element is used to specify a footer for a document or section?
-- [ ] <bottom>
-- [ ] <footer>
-- [ ] <section>
+- [ ] `<bottom>`
+- [ ] `<footer>`
+- [ ] `<section>`
 
 > :nine:Inside which HTML element do we put the JavaScript?
-- [ ] <js>
-- [ ] <scriping>
-- [ ] <script>
-- [ ] <javascript>
+- [ ] `<js>`
+- [ ] `<scriping>`
+- [ ] `<script>`
+- [ ] `<javascript>`
   
 > :keycap_ten: Where is the correct place to insert a JavaScript?
-- [ ] The <head> section
-- [ ] The <body> section
+- [ ] The `<head>` section
+- [ ] The `<body>` section
 - [ ] Both !
 
 
