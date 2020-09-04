@@ -24,7 +24,7 @@
 |    Class 15              | [Read-15]()             | 
 
 <hr>
-[![Watch the video](https://www.lvcsb.com/wp-content/uploads/2014/09/youtube-play-button.png)](https://youtu.be/2MsN8gpT6jY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 <hr>
 
