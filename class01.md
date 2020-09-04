@@ -329,7 +329,7 @@ You can specify that a script should run when a specific event has occurred. For
 <hr>
 # play  :arrow_forward:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://i.gifer.com/5QU0.gif)](https://youtu.be/mzPxo7Y6JyA "Video Title")
 
 <hr>
 
