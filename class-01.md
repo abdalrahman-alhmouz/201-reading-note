@@ -136,7 +136,8 @@ Attention is immediately drawn to a picture that shows the service this company 
 ![](https://media.wired.com/photos/59322df1a312645844993529/master/pass/testing.gif)
 
 <hr>
-# How JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.
+
+#  ***How JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.***
 
 ![](https://images.spot.im/v1/production/w2lkh6k2gyhdmhm6cuis) 
 
