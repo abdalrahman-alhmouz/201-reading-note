@@ -15,17 +15,9 @@
 
 # `HTML` Describes the Structure of Pages
 
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/CKlh1lwe2rY" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-
-
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKlh1lwe2rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<!-- blank line -->
 
