@@ -315,7 +315,7 @@ You can specify that a script should run when a specific event has occurred. For
 - [ ] `<section>`
 
 > :nine:Inside which HTML element do we put the JavaScript?
-- [ ] `<js>`
+- [ ] `<js>`r
 - [ ] `<scriping>`
 - [ ] `<script>`
 - [ ] `<javascript>`
@@ -331,16 +331,17 @@ You can specify that a script should run when a specific event has occurred. For
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/mzPxo7Y6JyA)
 
-<br>
-[![NEXT](https://www.gifs.cc/home/home-animated-pastels.gif)](https://dana-kiswani.github.io/201-reading-note/)
+
 
 <hr>
 
 ![](https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Crying-Baby-Page.gif)
 
 <br>
+<hr>
+<br>
 
 
-
+[![](https://www.gifs.cc/home/home-animated-pastels.gif)](https://dana-kiswani.github.io/201-reading-note/)
 
 
