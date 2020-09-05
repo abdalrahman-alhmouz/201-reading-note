@@ -7,7 +7,7 @@
 
 |     Lap                  | Read-Num                |  
 |  ---------------         | --------------          | 
-|    Class 1               | [Read-1](https://dana-kiswani.github.io/201-reading-note/class01)              | 
+|    Class 1               | [(Read-1)Introductory HTML and JavaScript](https://dana-kiswani.github.io/201-reading-note/class01)              | 
 |    Class 2               | [Read-2]()              | 
 |    Class 3               | [Read-3]()              | 
 |    Class 4               | [Read-4]()              | 
