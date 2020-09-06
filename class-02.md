@@ -57,7 +57,7 @@
 
 <hr>
 
-![](https://static.javatpoint.com/htmlpages/images/html-del-tag2.png)
+![](https://flaviocopes.com/html-text-tags/various.png)
 
 <hr>
 
