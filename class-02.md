@@ -19,7 +19,16 @@
 <h6>This is a Level 6 Heading</h6>
 ```
 
+![](https://codescracker.com/html/images/html_heading_tags.jpg)
 
+# Paragraphs
+![](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
+
+# Bold & Italic
+![](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
+
+# Line Breaks & Horizontal Rules
+![](https://www.codingtag.com/bloguploads/1562477779.png)
 
 
 
