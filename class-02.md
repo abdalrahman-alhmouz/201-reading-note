@@ -67,7 +67,58 @@
 
 <hr>
 
+# What About the Color in your WebSite..
+#### Can we change it ?..
 
+
+##### Ummm!Yeah of course you can change it by *CSS*
+# CSS 
+##### CSS describes how HTML elements are to be displayed on screen, paper, or in other media , and this is the General form :
+![](https://miro.medium.com/max/5040/1*naFDyXh9iGtmvNRhhFY-og.png)
+
+
+
+
+##### Let's talk about Background color..
+***The background of an element is the total size of the element, including padding and border (but not the margin)***
+
+###### In CSS the background is considered to be the width and height of an element, plus any padding and borders (but not margins). Using the CSS background-color property we can color the "body" background of our HTML page red.
+
+***For Example:***
+```ruby
+<head<
+  <style<
+    body { background-color: redd{
+  </style
+</head<
+<body<
+</body<
+```
+
+# Note ,,
+There's a multiple choices to change the color :
+- ***/By it's name/***
+   : background-color: redd;
+
+- ***/* Hexadecimal value */***
+   :background-color: #bbff00;
+   
+- ***/* RGB value */***
+   :background-color: rgb(255, 255, 128); 
+   
+- ***/* HSL value */***
+   :background-color: hsla(50, 33%, 25%, 0.75);
+
+
+### Using External CSS 
+# <LINK..
+
+#### href
+This specifies the path to the CSS file (which is often placed in a folder called css or styles).
+#### type
+This attribute specifies the type of document being linked to. The value should be text/css.
+#### rel
+This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet
 
 
 
