@@ -2,10 +2,10 @@
 
 <hr>
 
-# `we focus on how to add markup to the text that appears on your pages. You will learn about:`
+> # `we focus on how to add markup to the text that appears on your pages. You will learn about:`
 >
 > ***Structural markup:*** the elements that you can use to describe both headings and paragraphs.<br>
-> ***Semantic markup:*** which provides extra information; such as where emphasis is placed in a sentence, <br> that something you have written is a quotation (and who said it), the meaning of acronyms, and so on.
+> ***Semantic markup:*** which provides extra information; such as where emphasis is placed in a sentence, <br> that something you have written is a quotation (and who said it), > the meaning of acronyms, and so on.
 
 <hr>
 # HEADING..
