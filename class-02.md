@@ -2,14 +2,14 @@
 
 <hr>
 
-> # `we focus on how to add markup to the text that appears on your pages. You will learn about:`
+> # `we focus on how to add markup to the text that appears on your pages. You will learn about:` :small_red_triangle:
 >
 > ***Structural markup:*** the elements that you can use to describe both headings and paragraphs.<br>
 > ***Semantic markup:*** which provides extra information; such as where emphasis is placed in a sentence, <br> that something you have written is a quotation (and who said it), > the meaning of acronyms, and so on.
 
 <hr>
 
-# `HEADING..`:-
+# `HEADING..`:- :small_red_triangle:
 
 ```json
 <h1>This is a Main Heading</h1>
@@ -26,33 +26,39 @@
 
 <hr>
 
-# `Paragraphs..`:-
+# `Paragraphs..`:- :small_red_triangle:
+
 ![](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
 
 <hr>
 
-# `Bold & Italic..`:-
+# `Bold & Italic..`:- :small_red_triangle:
+
 ![](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
 
 <hr>
 
-# `Line Breaks & Horizontal Rules..`:-
+# `Line Breaks & Horizontal Rules..`:- :small_red_triangle:
+
 ![](https://www.codingtag.com/bloguploads/1562477779.png)
 
 <hr>
 
-# `Strong & Bold..`:-
+# `Strong & Bold..`:- :small_red_triangle:
+
 ![](https://www.samskritisolutions.com/blog/wp-content/uploads/2012/06/Bold-Vs-Strong-SEO.jpg)
 
 <hr>
 
-# `Blockqouate..`:-
+# `Blockqouate..`:- :small_red_triangle:
+
 
 ![](https://www.android-examples.com/wp-content/uploads/2016/03/blockquote-tag.png)
 
 <hr>
 
-# `Delete.. `:-
+# `Delete.. `:- :small_red_triangle:
+
 ![](https://static.javatpoint.com/htmlpages/images/html-del-tag2.png)
 
 <hr>
