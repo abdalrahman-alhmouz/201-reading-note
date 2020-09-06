@@ -5,23 +5,23 @@
  > *ALL OF US NOW HAVE THEIR OWN REPO, AND NOW WE HAVE A 15 READINGS ON THIS COURSE , SO WE'LL ADD A TABLE OF CONTENTS ON OUR REPO'S..*
 
 
-|     Lap                  | Read-Num                                                                                                 |  
-|  ---------------         | -------------------------------------------------------------------------------------------------------  | 
-|    Class 1               | [(Read-1)Introductory HTML and JavaScript](https://dana-kiswani.github.io/201-reading-note/class-01)     | 
-|    Class 2               | [(Read-2) HTML Text, CSS Introduction, and Basic JavaScript Instructions]()                              | 
-|    Class 3               | [(Read-3) HTML Lists, CSS Boxes, JS Control Flow]()                                                      | 
-|    Class 4               | [(Read-4) HTML Links, CSS Layout, JS Functions]()                                                        | 
-|    Class 5               | [(Read-5) HTML Images; CSS Color & Text]()                                                               | 
-|    Class 6               | [(Read-6) JS Object Literals; The DOM]()                                                                 | 
-|    Class 7               | [(Read-7) HTML Tables; JS Constructor Functions]()                                                       | 
-|    Class 8               | [(Read-8) More CSS Layout]()                                                                             | 
-|    Class 9               | [(Read-9) Forms and Events]()                                                                            |
-|    Class 10              | [(Read-10) JS Debugging]()                                                                               | 
-|    Class 11              | [(Read-11) Assorted Topics]()                                                                            | 
-|    Class 12              | [(Read-12) Docs for the HTML `<canvas> Element & Chart.js`]()                                            | 
-|    Class 13              | [(Read-13) Local Storage ]()                                                                             | 
-|    Class 14              | [(Read-14) CSS Transforms, Transitions, and Animations]()                                                | 
-|    Class 15              | [(Read-15) What Google Learned About Teams]()                                                            | 
+|     Lap           | Read-Num                                                                                                   |  
+|  ---------------  | -------------------------------------------------------------------------------------------------------    | 
+|    Class 1        | [(Read-1)Introductory HTML and JavaScript](https://dana-kiswani.github.io/201-reading-note/class-01)       | 
+|    Class 2        | [(Read-2) HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://dana-kiswani.github.io/201-reading-note/class-02)| 
+|    Class 3        | [(Read-3) HTML Lists, CSS Boxes, JS Control Flow]()                                                        | 
+|    Class 4        | [(Read-4) HTML Links, CSS Layout, JS Functions]()                                                          | 
+|    Class 5        | [(Read-5) HTML Images; CSS Color & Text]()                                                                 | 
+|    Class 6        | [(Read-6) JS Object Literals; The DOM]()                                                                   | 
+|    Class 7        | [(Read-7) HTML Tables; JS Constructor Functions]()                                                         | 
+|    Class 8        | [(Read-8) More CSS Layout]()                                                                               | 
+|    Class 9        | [(Read-9) Forms and Events]()                                                                              |
+|    Class 10       | [(Read-10) JS Debugging]()                                                                                 | 
+|    Class 11       | [(Read-11) Assorted Topics]()                                                                              | 
+|    Class 12       | [(Read-12) Docs for the HTML `<canvas> Element & Chart.js`]()                                              | 
+|    Class 13       | [(Read-13) Local Storage ]()                                                                               | 
+|    Class 14       | [(Read-14) CSS Transforms, Transitions, and Animations]()                                                  | 
+|    Class 15       | [(Read-15) What Google Learned About Teams]()                                                              | 
 
 <hr>
 
