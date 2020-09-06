@@ -142,10 +142,13 @@ This specifies the relationship between the HTML page and the file it is linked 
 > Similarly, scripts often need to achieve the same goal even when they are run with different data, so variables can be used to represent values in your scripts that are likely > to change. The result is said to be calculated or computed using the data stored in the variables.
 
 <hr>
+
 ![](https://tutorial.techaltum.com/images/js-variables.jpg)
 
 <hr>
+
 # `DATARYPE`
+
 > `NUMERIC DATA TYPE`
 > The numeric data type handles numbers.
 > - 0.75
@@ -155,11 +158,13 @@ This specifies the relationship between the HTML page and the file it is linked 
 > `STRING DATA TYPE`
 > The strings data type consists of letters and other characters.
 > - 'Hi , Hellow word'
+
 <br>
 
 > `BOOLEAN DATA TYPE`
 > Boolean data types can have one of two va lues: true or false.
 > - true/false
+
 <hr>
 
 
