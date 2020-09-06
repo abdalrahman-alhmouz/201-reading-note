@@ -9,7 +9,7 @@
 
 <hr>
 
-# `HEADING..`
+# `HEADING..`:-
 
 ```json
 <h1>This is a Main Heading</h1>
@@ -26,27 +26,40 @@
 
 <hr>
 
-# `Paragraphs`
+# `Paragraphs..`:-
 ![](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
 
 <hr>
 
-# `Bold & Italic`
+# `Bold & Italic..`:-
 ![](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
 
 <hr>
 
-# `Line Breaks & Horizontal Rules`
+# `Line Breaks & Horizontal Rules..`:-
 ![](https://www.codingtag.com/bloguploads/1562477779.png)
 
 <hr>
 
+# `Strong & Bold..`:-
+![](https://www.samskritisolutions.com/blog/wp-content/uploads/2012/06/Bold-Vs-Strong-SEO.jpg)
 
+<hr>
 
+# `Blockqouate..`:-
 
+![](https://www.android-examples.com/wp-content/uploads/2016/03/blockquote-tag.png)
 
+<hr>
 
+# `Delete.. `:-
+![](https://static.javatpoint.com/htmlpages/images/html-del-tag2.png)
 
+<hr>
+
+![](https://static.javatpoint.com/htmlpages/images/html-del-tag2.png)
+
+<hr>
 
 
 
