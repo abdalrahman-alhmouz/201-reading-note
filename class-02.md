@@ -2,12 +2,16 @@
 
 <hr>
 
+# HTML :black_circle:
+
+
 > # `we focus on how to add markup to the text that appears on your pages. You will learn about:` :small_red_triangle:
 >
 > ***Structural markup:*** the elements that you can use to describe both headings and paragraphs.<br>
 > ***Semantic markup:*** which provides extra information; such as where emphasis is placed in a sentence, <br> that something you have written is a quotation (and who said it), > the meaning of acronyms, and so on.
 
 <hr>
+
 
 # `HEADING..`:- :small_red_triangle:
 
@@ -74,7 +78,8 @@
 
 ### Ummm!Yeah of course you can change it by `CSS`.. :small_red_triangle:
 
-# `CSS `
+# `CSS ` :large_blue_circle:
+
 #### CSS describes how HTML elements are to be displayed on screen, paper, or in other media , and this is the General form :
 
 ![](https://miro.medium.com/max/5040/1*naFDyXh9iGtmvNRhhFY-og.png)
@@ -128,9 +133,18 @@ This attribute specifies the type of document being linked to. The value should 
 This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet
 ```
 
-
-
 <hr>
+
+# JAVASCRIPT :red_circle:
+
+> A `variable` is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs.
+> No matter what the dimensions of any individual wall are, you know that you can fin d its area by multiplying the width of that wall by its height.
+> Similarly, scripts often need to achieve the same goal even when they are run with different data, so variables can be used to represent values in your scripts that are likely > to change. The result is said to be calculated or computed using the data stored in the variables.
+
+
+
+
+
 
 
 # DID YOUUNDERSTAND :interrobang:
