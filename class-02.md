@@ -186,8 +186,9 @@ This specifies the relationship between the HTML page and the file it is linked 
 
 <br>
 
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-Switch-Cases-Statements.jpg)
 
-
+<hr>
 
 # DID YOUUNDERSTAND :interrobang:
 
