@@ -67,17 +67,17 @@
 
 <hr>
 
-# What About the Color in your WebSite..
-#### Can we change it ?..
+# What About the Color in your WebSite.. :bangbang:
 
 
-##### Ummm!Yeah of course you can change it by *CSS*
-# CSS 
-##### CSS describes how HTML elements are to be displayed on screen, paper, or in other media , and this is the General form :
+#### Can we change it ?.. :interrobang:
+
+### Ummm!Yeah of course you can change it by `CSS`.. :small_red_triangle:
+
+# `CSS `
+#### CSS describes how HTML elements are to be displayed on screen, paper, or in other media , and this is the General form :
+
 ![](https://miro.medium.com/max/5040/1*naFDyXh9iGtmvNRhhFY-og.png)
-
-
-
 
 ##### Let's talk about Background color..
 ***The background of an element is the total size of the element, including padding and border (but not the margin)***
@@ -87,16 +87,22 @@
 ***For Example:***
 ```ruby
 <head<
-  <style<
-    body { background-color: redd{
+  <style>
+    body { background-color: redd
+            }
   </style
-</head<
-<body<
-</body<
+ </head>
+<body>
+----
+</body>
 ```
 
-# Note ,,
+<hr>
+
+# `Note ,,`
 There's a multiple choices to change the color :
+```ruby
+
 - ***/By it's name/***
    : background-color: redd;
 
@@ -108,10 +114,11 @@ There's a multiple choices to change the color :
    
 - ***/* HSL value */***
    :background-color: hsla(50, 33%, 25%, 0.75);
-
+```
 
 ### Using External CSS 
-# <LINK..
+# > LINK..
+```ruby
 
 #### href
 This specifies the path to the CSS file (which is often placed in a folder called css or styles).
@@ -119,19 +126,14 @@ This specifies the path to the CSS file (which is often placed in a folder calle
 This attribute specifies the type of document being linked to. The value should be text/css.
 #### rel
 This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet
+```
 
 
 
+<hr>
 
 
-
-
-
-
-
-
-
-
+# DID YOUUNDERSTAND :interrobang:
 
 
 ![](https://kenyanlist.net/index.php?media/giphy-2-gif.1029/full)
