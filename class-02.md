@@ -8,6 +8,7 @@
 > ***Semantic markup:*** which provides extra information; such as where emphasis is placed in a sentence, <br> that something you have written is a quotation (and who said it), > the meaning of acronyms, and so on.
 
 <hr>
+
 # HEADING..
 
 ```json
@@ -19,16 +20,26 @@
 <h6>This is a Level 6 Heading</h6>
 ```
 
+<hr>
+
 ![](https://codescracker.com/html/images/html_heading_tags.jpg)
+
+<hr>
 
 # Paragraphs
 ![](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
 
+<hr>
+
 # Bold & Italic
 ![](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
 
+<hr>
+
 # Line Breaks & Horizontal Rules
 ![](https://www.codingtag.com/bloguploads/1562477779.png)
+
+<hr>
 
 
 
