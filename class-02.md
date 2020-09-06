@@ -9,8 +9,8 @@
 
 <hr>
 # HEADING..
-```
-ruby
+
+ruby ```
 <h1>This is a Main Heading</h1>
 <h2>This is a Level 2 Heading</h2>
 <h3>This is a Level 3 Heading</h3>
