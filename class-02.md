@@ -178,13 +178,13 @@ This specifies the relationship between the HTML page and the file it is linked 
 
 <br>
 
-> The values are assigned to the array inside a pair of square brackets, and each value is separated 
-> by a comma. The values in the array do not need to be the same data type, so you can store a 
-> string, a number and a Boolean all in the same array.
+# > The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array.
 
 <hr>
 
+![](https://miro.medium.com/max/892/1*bFIR37BFmQcxyPd7UPs6xg.png)
 
+<br>
 
 
 
