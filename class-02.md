@@ -9,7 +9,7 @@
 
 <hr>
 
-# HEADING..
+# `HEADING..`
 
 ```json
 <h1>This is a Main Heading</h1>
@@ -26,17 +26,17 @@
 
 <hr>
 
-# Paragraphs
+# `Paragraphs`
 ![](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
 
 <hr>
 
-# Bold & Italic
+# `Bold & Italic`
 ![](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg?w=593)
 
 <hr>
 
-# Line Breaks & Horizontal Rules
+# `Line Breaks & Horizontal Rules`
 ![](https://www.codingtag.com/bloguploads/1562477779.png)
 
 <hr>
