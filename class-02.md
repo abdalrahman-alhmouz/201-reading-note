@@ -78,7 +78,7 @@
 
 ### Ummm!Yeah of course you can change it by `CSS`.. :small_red_triangle:
 
-# `CSS ` :large_blue_circle:
+# CSS  :large_blue_circle:
 
 #### CSS describes how HTML elements are to be displayed on screen, paper, or in other media , and this is the General form :
 
@@ -141,9 +141,26 @@ This specifies the relationship between the HTML page and the file it is linked 
 > No matter what the dimensions of any individual wall are, you know that you can fin d its area by multiplying the width of that wall by its height.
 > Similarly, scripts often need to achieve the same goal even when they are run with different data, so variables can be used to represent values in your scripts that are likely > to change. The result is said to be calculated or computed using the data stored in the variables.
 
+<hr>
+![](https://tutorial.techaltum.com/images/js-variables.jpg)
 
+<hr>
+# `DATARYPE`
+> `NUMERIC DATA TYPE`
+> The numeric data type handles numbers.
+> - 0.75
 
+<br>
 
+> `STRING DATA TYPE`
+> The strings data type consists of letters and other characters.
+> - 'Hi , Hellow word'
+<br>
+
+> `BOOLEAN DATA TYPE`
+> Boolean data types can have one of two va lues: true or false.
+> - true/false
+<hr>
 
 
 
