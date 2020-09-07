@@ -1,14 +1,18 @@
 # HTML 
+
 <hr>
-# `HTML lists`
+<br>
+
+#  `HTML lists` ..
 
 ![](https://miro.medium.com/max/876/1*HjpS84zsYK2ud3Ale19Oqw.png)
 
  <hr>
  <br>
+ 
 > Unordered HTML List
-> An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
-> The list items will be marked with bullets (small black circles) by default:
+> An unordered list starts with the `<ul>` tag. Each list item starts with the `<li>` tag.
+> The list items will be marked with bullets `(small black circles)` by default:
   
   ``` ruby
   <ul>
@@ -17,10 +21,12 @@
   <li>Milk</li>
 </ul>
   ```
+  
   <br>
   
+  
 > Ordered HTML List
-> An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
+> An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag.
 > The list items will be marked with numbers by default:
 
 ``` ruby 
@@ -33,6 +39,10 @@
 
 <hr>
 <br>
+
+
+# HTML List Tags
+
 
 | Tag  | Description                |
 | ---- | ------------------------   |
