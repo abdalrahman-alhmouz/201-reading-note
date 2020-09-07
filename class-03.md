@@ -52,6 +52,11 @@
 
 
 <hr>
+
+![](https://i.gifer.com/4ltg.gif)
+
+<hr>
+
 <br>
 
 
@@ -128,13 +133,44 @@ var isReading = true;   // yes, I'm reading
 var isSleeping = false; // no, I'm not sleeping
 ```
 
+<hr>
+<br>
 
+# JavaScript if else and else if..
+
+![](https://images.code.org/d873962609e99f821249fde2007ca1bb-image-1479494721725.gif)
+
+
+> *Very often when you write code, you want to perform different actions for different decisions.*
+>
+> *You can use conditional statements in your code to do this.*
+>
+> *In JavaScript we have the following conditional statements:*
+
+- Use if to specify a block of code to be executed, if a specified condition is true
+- Use else to specify a block of code to be executed, if the same condition is false
+- Use else if to specify a new condition to test, if the first condition is false
+- Use switch to specify many alternative blocks of code to be executed
+
+
+
+``` ruby
+if (hour < 18) {
+  greeting = "Good day";
+} else {
+  greeting = "Good evening";
+}
+```
+
+<hr>
+
+
+![](https://user-images.githubusercontent.com/9205389/28846831-c063158c-76c1-11e7-8f6c-ae9fb458845b.gif)
 
 
 
 <hr>
 
-![](https://i.gifer.com/4ltg.gif)
 
 
 
