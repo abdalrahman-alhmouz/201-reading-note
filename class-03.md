@@ -85,6 +85,48 @@ div {
 <br>
 <hr>
 
+# javascript data types..
+
+![](https://i.pinimg.com/originals/66/8d/fc/668dfc002312ab58e0d1cb15e0b98a5e.png)
+
+> There are six basic data types in JavaScript which can be divided into three main categories: primitive <br>
+> (or primary), composite (or reference), and special data types. String, Number, and Boolean are primitive data types. <br>
+> Object, Array, and Function (which are all types of objects) are composite data types.
+
+> ***The string data type***
+> is used to represent textual data (i.e. sequences of characters).<br>
+> Strings are created using single or double quotes surrounding one or more characters, as shown below:
+
+
+``` ruby 
+var a = 'Hi there!';  // using single quotes
+var b = "Hi there!";  // using double quotes
+```
+
+``` ruby
+var a = "Let's have a cup of coffee."; // single quote inside double quotes
+var b = 'He said "Hello" and left.';  // double quotes inside single quotes
+var c = 'We\'ll never give up.';     // escaping single quote with backslash
+```
+> ***The Number Data Type***
+> The number data type is used to represent positive or negative numbers with or without decimal place, <br>
+> or numbers written using exponential notation e.g. 1.5e-4 (equivalent to 1.5x10-4).
+
+``` ruby 
+var a = 25;         // integer
+var b = 80.5;       // floating-point number
+var c = 4.25e+6;    // exponential notation, same as 4.25e6 or 4250000
+var d = 4.25e-6;    // exponential notation, same as 0.00000425
+```
+
+> ***The Boolean Data Type***
+> The Boolean data type can hold only two values: true or false. <br>
+> It is typically used to store values like yes (true) or no (false), on (true) or off (false), etc. as demonstrated below:
+
+```ruby 
+var isReading = true;   // yes, I'm reading
+var isSleeping = false; // no, I'm not sleeping
+```
 
 
 
