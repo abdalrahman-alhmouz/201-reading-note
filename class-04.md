@@ -57,7 +57,9 @@ Example
 > Use the <img> element (inside <a>) to use an image as a link
 > Use the mailto: scheme inside the href attribute to create a link that opens the user's email program
 
+<hr>
 
+# HTML LAYOUT
 
 # Controlling the Position of Elements
 
