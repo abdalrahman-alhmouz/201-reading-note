@@ -73,7 +73,7 @@ Example
 - <aside> - Defines content aside from the content (like a sidebar)
 - <footer> - Defines a footer for a document or a section
 - <details> - Defines additional details that the user can open and close on demand
-- <summary> - Defines a heading for the <details> element
+- <summary> - Defines a heading for the `<details>` element
 > You can read more about semantic elements in our HTML Semantics chapter.
 
 
