@@ -40,13 +40,13 @@ Example
 # Link Titles
 > The title attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.
 
-```
+``` java
 <a href="https://www.dana.com/html/" title="Go to HTML section">  Visit our HTML Tutorial  </a>
 
 ```
 
 # More on Absolute URLs and Relative URLs
-```
+``` java
 <a href="https://www.dana.com/html/default.html"> HTML tutorial</a>
 ```
 
@@ -92,7 +92,7 @@ Example
 
 
 ***For example,*** the following code defines a simple function named square:
-```
+``` java
 function square(number) {
   return number * number;
 }
@@ -105,7 +105,7 @@ function square(number) {
 > 'Calling' the function actually performs the specified actions with the indicated parameters. For example, <br>
 > if you define the function square, you could call it as follows:
 
-```
+``` java
 square(5);
 ```
 
