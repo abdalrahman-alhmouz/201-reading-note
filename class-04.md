@@ -1,4 +1,4 @@
-# HTML Links
+# What is HTML Links
 
 > The HTML `<a>` tag defines a hyperlink. It has the following syntax:
 > `<a href="url">link text</a>`
@@ -9,11 +9,11 @@
 
 
 
-# By default, links will appear as follows in all browsers:
+***By default, links will appear as follows in all browsers:***
 
-An unvisited link is underlined and blue
-A visited link is underlined and purple
-An active link is underlined and red
+> An unvisited link is underlined and blue
+> A visited link is underlined and purple
+> An active link is underlined and red
 
 
 
@@ -59,7 +59,7 @@ Example
 
 
 
-# Controll ing the Position of Elements
+# Controlling the Position of Elements
 
 > CSS has the following positioning schemes that allow you to control <br>
 > the layout of a page: normal flow, relative positioning, and absolute <br>
@@ -75,7 +75,7 @@ Example
 
 <hr>
 
-# Function 
+# What is JS Function 
 
 > Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is
 > similar to a procedure—a set of statements that performs a task or calculates a > value, but for a 
@@ -98,7 +98,7 @@ function square(number) {
 }
 ```
 
-# Calling functions
+# What is Calling functions
 
 > Defining a function does not execute it. Defining it simply names the function and specifies what to do when the function is called.
 
@@ -111,6 +111,38 @@ square(5);
 
 > The preceding statement calls the function with an argument of 5. The function executes its statements and returns the value 25.
 > Functions must be in scope when they are called, but the function declaration can be hoisted (appear below the call in the code), as in this example:
+
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
