@@ -207,14 +207,16 @@ switch (new Date().getDay()) {
 
 # JavaScript Loops
 
-Different Kinds of Loops
-JavaScript supports different kinds of loops:
 
-for - loops through a block of code a number of times
-for/in - loops through the properties of an object
-for/of - loops through the values of an iterable object
-while - loops through a block of code while a specified condition is true
-do/while - also loops through a block of code while a specified condition is true
+![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Loops-1280x720.jpg)
+
+## Different Kinds of Loops
+### JavaScript supports different kinds of loops:
+> for - loops through a block of code a number of times
+> for/in - loops through the properties of an object
+> for/of - loops through the values of an iterable object
+> while - loops through a block of code while a specified condition is true
+> do/while - also loops through a block of code while a specified condition is true
 
 
 # The For Loop
@@ -233,10 +235,10 @@ for (i = 0; i < 5; i++) {
 
 
 # The While Loop
-The while loop loops through a block of code as long as a specified condition is true.
+> The while loop loops through a block of code as long as a specified condition is true.
 
 
-In the following example, the code in the loop will run, over and over again, as long as a variable (i) is less than 10:
+> In the following example, the code in the loop will run, over and over again, as long as a variable (i) is less than 10:
 ```
 while (i < 10) {
   text += "The number is " + i;
@@ -247,7 +249,7 @@ while (i < 10) {
 <hr>
 
 # The Do/While Loop
-The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+> The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
 ```
 do {
   // code block to be executed
@@ -255,7 +257,7 @@ do {
 while (condition);
 ```
 
-The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
+> The example below uses a do/while loop. The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
 ```
 do {
   text += "The number is " + i;
