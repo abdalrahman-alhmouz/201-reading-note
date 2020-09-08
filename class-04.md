@@ -22,7 +22,7 @@
 > To use an image as a link, just put the <img> tag inside the <a> tag:
 
 Example
-```
+``` java
 <a href="default.asp">
 <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
 </a>
@@ -31,7 +31,7 @@ Example
 
 # Link to an Email Address
 
-```
+``` java
 <a href="mailto:someone@example.com">Send email</a>
 
 ```
