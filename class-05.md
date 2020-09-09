@@ -159,8 +159,10 @@ h1 {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 ```
+<hr>
+ 
 
-
+![](https://freefrontend.com/assets/img/css-text-animations/Shining-Text-Animation-Effects-HTML-CSS.gif)
 
 
 
