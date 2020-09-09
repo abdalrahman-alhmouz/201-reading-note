@@ -44,7 +44,7 @@
 
 ![](https://i.stack.imgur.com/KEKiw.gif)
 
-***Example: ***
+***Example.. ***
 
 ``` ruby
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
@@ -53,7 +53,7 @@
 
 ***Text Color***
 
-***Example***
+***Example ..***
 
 ``` ruby
 <h1 style="color:Tomato;">Hello World</h1>
