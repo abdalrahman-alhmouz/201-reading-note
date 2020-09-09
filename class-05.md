@@ -133,7 +133,7 @@ p.b {
 >
 > This property accepts a comma-separated list of shadows to be applied to the text.
 
-***Examples : ***
+> **Examples :**
 
 ``` ruby
 h1 {
