@@ -22,9 +22,9 @@
 ``` ruby 
 <!DOCTYPE html>
 <html>
-<body>
+ <body>
     <img src="https://www.html-5-tutorial.com/images/a-tag.gif" alt="Pic is not allowed">
-</body>
+ </body>
 </html>
 ```
 
@@ -37,6 +37,35 @@
 </body>
 </html>
 ```
+<hr>
+
+
+# HTML Colors
+
+![](https://i.stack.imgur.com/KEKiw.gif)
+
+***Example: ***
+
+``` ruby
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
+```
+
+***Text Color***
+
+***Example***
+
+``` ruby
+<h1 style="color:Tomato;">Hello World</h1>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+```
+
+
+
+
+
+
 
 
 
