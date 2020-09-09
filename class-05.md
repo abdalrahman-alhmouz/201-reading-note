@@ -16,9 +16,11 @@
 
 
 > ***Syntax:***
+
 ![](https://www.html-5-tutorial.com/images/a-tag.gif)
 
-> Example
+
+> **Example**
 ``` ruby 
 <!DOCTYPE html>
 <html>
@@ -52,7 +54,7 @@
 ```
 
 > ***Text Color***
-> **Example ..
+> **Example ..**
 
 ``` ruby
 <h1 style="color:Tomato;">Hello World</h1>
@@ -61,7 +63,7 @@
 ```
 
 > ***Border Color***
-> **Example..***
+> **Example..**
 ``` ruby
 <h1 style="border:2px solid Tomato;">Hello World</h1>
 <h1 style="border:2px solid DodgerBlue;">Hello World</h1>
