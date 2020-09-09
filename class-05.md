@@ -15,7 +15,7 @@
 > Images can improve the design and the appearance of a web page.
 
 
-#### ***Syntax:***
+> Syntax:
 ![](https://www.html-5-tutorial.com/images/a-tag.gif)
 
 ***Example***
@@ -51,7 +51,7 @@
 <p style="background-color:Tomato;">Lorem ipsum...</p>
 ```
 
-***Text Color***
+> Text Color
 
 ***Example ..****
 
@@ -61,11 +61,15 @@
 <p style="color:MediumSeaGreen;">Ut wisi enim...</p>
 ```
 
+> Border Color
 
 
-
-
-
+***Example..***
+``` ruby
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+<h1 style="border:2px solid DodgerBlue;">Hello World</h1>
+<h1 style="border:2px solid Violet;">Hello World</h1>
+```
 
 
 
