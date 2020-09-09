@@ -129,6 +129,8 @@ p.b {
 
 ***CSS text-shadow Property***
 
+![](https://raw.githubusercontent.com/nawnaw7/FCC-guides-CSS3-shadows-images/master/CSS3%20Shadow%20Effects%20Images/box-shadows.png)
+
 > The text-shadow property adds shadow to text.
 >
 > This property accepts a comma-separated list of shadows to be applied to the text.
