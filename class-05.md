@@ -72,6 +72,46 @@
 <h1 style="border:2px solid Violet;">Hello World</h1>
 ```
 
+<hr>
+
+> ***HTML Text Formatting***
+> **HTML `<b>` and `<strong>` Elements**
+> The HTML `<b>` element defines bold text, without any extra importance.
+
+``` ruby
+<b>This text is bold</b>
+```
+
+> The HTML `<strong>` element defines text with strong importance. The content inside is typically displayed in bold.
+
+``` ruby
+<strong>This text is important!</strong>
+```
+
+
+> **HTML `<i>` and `<em>` Elements**
+> The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+> Tip: The <i> tag is often used to indicate a technical term, a phrase from another language, a thought, a ship name, etc.
+ 
+``` ruby
+ <i>This text is italic</i>
+```
+> The HTML <em> element defines emphasized text. The content inside is typically displayed in italic.
+> Tip: A screen reader will pronounce the words in <em> with an emphasis, using verbal stress. 
+ 
+``` ruby
+<em>This text is emphasized</em>
+```
+
+> ***Definition and Usage***
+> The font-family property specifies the font for an element.
+>
+> The font-family property can hold several font names as a "fallback" system. If the browser does not support the first font, it tries the next font.
+>
+> There are two types of font family names:
+>
+> - family-name - The name of a font-family, like "times", "courier", "arial", etc.
+> - generic-family - The name of a generic-family, like "serif", "sans-serif", "cursive", "fantasy", "monospace".
 
 
 
