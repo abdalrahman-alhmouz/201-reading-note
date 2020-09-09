@@ -90,8 +90,8 @@
 
 
 > **HTML `<i>` and `<em>` Elements**
-> The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
-> Tip: The <i> tag is often used to indicate a technical term, a phrase from another language, a thought, a ship name, etc.
+> The HTML `<i>` element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+> Tip: The `<i>` tag is often used to indicate a technical term, a phrase from another language, a thought, a ship name, etc.
  
 ``` ruby
  <i>This text is italic</i>
@@ -113,7 +113,52 @@
 > - family-name - The name of a font-family, like "times", "courier", "arial", etc.
 > - generic-family - The name of a generic-family, like "serif", "sans-serif", "cursive", "fantasy", "monospace".
 
+> **Example..**
 
+> Specify the font for two paragraphs:
+``` ruby
+p.a {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+```
+
+***CSS text-shadow Property***
+
+> The text-shadow property adds shadow to text.
+>
+> This property accepts a comma-separated list of shadows to be applied to the text.
+
+***Examples : ***
+
+``` ruby
+h1 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+```
+
+``` ruby
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+```
+
+``` ruby
+h1 {
+  text-shadow: 0 0 3px #FF0000;
+}
+```
+
+``` ruby
+h1 {
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+```
 
 
 
