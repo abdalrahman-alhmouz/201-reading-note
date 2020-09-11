@@ -12,7 +12,7 @@
 |    Class 3        | [(Read-3) HTML Lists, CSS Boxes, JS Control Flow](https://dana-kiswani.github.io/201-reading-note/class-03)| 
 |    Class 4        | [(Read-4) HTML Links, CSS Layout, JS Functions](https://dana-kiswani.github.io/201-reading-note/class-04)  | 
 |    Class 5        | [(Read-5) HTML Images; CSS Color & Text](https://dana-kiswani.github.io/201-reading-note/class-05)         | 
-|    Class 6        | [(Read-6) JS Object Literals; The DOM]()                                                                   | 
+|    Class 6        | [(Read-6) JS Object Literals; The DOM](https://dana-kiswani.github.io/201-reading-note/class-06)           | 
 |    Class 7        | [(Read-7) HTML Tables; JS Constructor Functions]()                                                         | 
 |    Class 8        | [(Read-8) More CSS Layout]()                                                                               | 
 |    Class 9        | [(Read-9) Forms and Events]()                                                                              |
