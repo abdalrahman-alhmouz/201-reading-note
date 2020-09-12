@@ -1,6 +1,12 @@
 # JS Object Literals; The DOM
 <hr>
 
+# The people say : That Understanding The Problem Domain Is The Hardest Part Of Programming..!!
+## Is this right ?!
+*Lets see..*
+
+
+
 ## WHAT IS AN OBJECT?
 > Objects in JavaScript, just as in many other programming languages, can be compared to objects in real life. 
 > The concept of objects in JavaScript can be understood with real life, tangible objects.
@@ -64,7 +70,7 @@ person.name = function () {
 
 
 
-
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--3PePIjz5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnbqubcipqjl5pb3i8ds.gif)
 
 
 
