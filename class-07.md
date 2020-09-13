@@ -134,15 +134,19 @@ table {
 
 
 ## WHAT IS AN OBJECT?
+
 > Objects in JavaScript, just as in many other programming languages, can be compared to objects in real life. 
 > The concept of objects in JavaScript can be understood with real life, tangible objects.
 
 > In JavaScript, an object is a standalone entity, with properties and type.
-> Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. The properties of an object define the characteristics of the object. You access the properties of an object with a simple dot-notation:
+> Object properties are basically the same as ordinary JavaScript variables,<br>
+> except for the attachment to objects. The properties of an object define the characteristics of the object. 
+
+> You access the properties of an object with a simple dot-notation:
 
 `objectName.propertyName`
 
-***Example:***
+***Example***
 
 ``` ruby
 var person = {
@@ -157,11 +161,8 @@ var person = {
 
 > The `this` Keyword
 > In a function definition, this refers to the "owner" of the function.
->
 > In the example above, `this` is the ***person object*** that "owns" the ***fullName*** function.
->
 > In other words,***this.firstName*** means the ***firstName*** property of this object.
->
 > Read more about the `this` keyword at JS this Keyword.
 
 ## Using Built-In Methods
@@ -172,13 +173,14 @@ var person = {
 var message = "Hello world!";
 var x = message.toUpperCase();
 ```
-? The value of x, after execution of the code above will be:
+
+> The value of x, after execution of the code above will be:
 
 ``` ruby
 HELLO WORLD!
 ```
 
-## Adding a Method to an Object
+## *Adding a Method to an Object*
 
 ***Example:***
 ``` ruby
