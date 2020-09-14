@@ -14,7 +14,7 @@
 |    Class 5        | [(Read-5) HTML Images; CSS Color & Text](https://dana-kiswani.github.io/201-reading-note/class-05)         | 
 |    Class 6        | [(Read-6) JS Object Literals; The DOM](https://dana-kiswani.github.io/201-reading-note/class-06)           | 
 |    Class 7        | [(Read-7) HTML Tables; JS Constructor Functions](https://dana-kiswani.github.io/201-reading-note/class-07) | 
-|    Class 8        | [(Read-8) More CSS Layout]()                                                                               | 
+|    Class 8        | [(Read-8) More CSS Layout](https://dana-kiswani.github.io/201-reading-note/class-08)                       | 
 |    Class 9        | [(Read-9) Forms and Events]()                                                                              |
 |    Class 10       | [(Read-10) JS Debugging]()                                                                                 | 
 |    Class 11       | [(Read-11) Assorted Topics]()                                                                              | 
