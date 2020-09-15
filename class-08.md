@@ -40,6 +40,9 @@ There are five different position values:
 
 
 ## 1-Normal flow
+
+![](https://www.gurukulzone.com/css/images/d.png)
+
 *HTML elements are positioned static by default.*
 
 *Static positioned elements are not affected by the top, bottom, left, and right properties.*
@@ -58,6 +61,7 @@ div.static {
 
 ## 2-Relative Positioning
 
+
 *An element with position: relative; is positioned relative to its normal position.*
 
 *Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.*
@@ -74,6 +78,8 @@ div.relative {
 ```
 
 ## 3-Absolute positioning
+
+
 > An element with `position: absolute;` is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
 > When the position property is given a value of absolute, the box is taken out of normal flow and no longer affects the position of other elements on the page. (They act like it is not there.)
 
@@ -117,6 +123,7 @@ and left or right it should be placed.
 
 ## 1-Fixed Positioning
 
+
 > An element with `position: fixed;` is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element.
 
 ``` ruby 
@@ -133,6 +140,7 @@ div.fixed {
 
 
 ## 2-Floating Elements
+
 
 > The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
 
@@ -168,6 +176,9 @@ border-bottom: 1px solid #665544;}
 
 
 ## Screen Sizes
+
+![](https://www.seobility.net/en/wiki/images/6/6f/Media-Queries.png)
+
 > Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
 
 ## Screen Resolution
