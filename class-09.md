@@ -28,9 +28,11 @@ Type	Description
 
 
 
-HTML Input Types
+# HTML Input Types
 Here are the different input types you can use in HTML:
 
+
+```
 `<input type="button">`
 `<input type="checkbox">`
 `<input type="color">`
@@ -53,6 +55,8 @@ Here are the different input types you can use in HTML:
 `<input type="time">`
 `<input type="url">`
 `<input type="week">`
+```
+
 Tip: The default value of the
 
 
