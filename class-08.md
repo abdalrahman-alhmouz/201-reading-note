@@ -52,6 +52,7 @@ There are five different position values:
 `This <div> element has position: static;`
 
 *Example*
+
 ``` ruby
 div.static {
   position: static;
@@ -69,6 +70,7 @@ div.static {
 *This <div> element has position: relative;*
 
 *Example*
+
 ``` ruby
 div.relative {
   position: relative;
