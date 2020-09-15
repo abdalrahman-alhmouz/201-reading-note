@@ -196,6 +196,9 @@ border-bottom: 1px solid #665544;}
 
 
 ## Liquid layout example
+
+![](https://uxstepbystep.com/wordpress/wp-content/uploads/2017/02/example-liquid-layout.jpg)
+
 *Combination liquid and fixed layouts*
 > Similar to liquid layouts, except one or more of the containers on the page have fixed widths.
 
