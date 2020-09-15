@@ -1,3 +1,392 @@
 #  “FORMS , LISTS & Tables ”
 
 ## 1-The `<form>` Element
+The HTML <form> element is used to create an HTML form for user input:
+
+<form>
+.
+form elements
+.
+</form>
+
+
+The <input> Element
+The HTML <input> element is the most used form element.
+
+An <input> element can be displayed in many ways, depending on the type attribute.
+
+Here are some examples:
+
+Type	Description
+<input type="text">	Displays a single-line text input field
+<input type="radio">	Displays a radio button (for selecting one of many choices)
+<input type="checkbox">	Displays a checkbox (for selecting zero or more of many choices)
+<input type="submit">	Displays a submit button (for submitting the form)
+<input type="button">	Displays a clickable button
+
+
+
+
+HTML Input Types
+Here are the different input types you can use in HTML:
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+Tip: The default value of the
+
+
+
+
+The <label> Element
+Notice the use of the <label> element in the example above.
+
+The <label> tag defines a label for many form elements.
+
+The <label> element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
+
+The <label> element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the <label> element, it toggles the radio button/checkbox.
+
+The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together.
+
+
+
+
+
+Radio Buttons
+The <input type="radio"> defines a radio button.
+
+Radio buttons let a user select ONE of a limited number of choices.
+
+Example
+A form with radio buttons:
+
+<form>
+  <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" id="other" name="gender" value="other">
+  <label for="other">Other</label>
+</form>
+
+
+
+
+Checkboxes
+The <input type="checkbox"> defines a checkbox.
+
+Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+
+Example
+A form with checkboxes:
+
+<form>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label>
+</form>
+
+
+
+
+
+
+The Submit Button
+The <input type="submit"> defines a button for submitting the form data to a form-handler.
+
+The form-handler is typically a file on the server with a script for processing input data.
+
+The form-handler is specified in the form's action attribute.
+
+Example
+A form with a submit button:
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+
+
+
+
+The <textarea> Element
+The <textarea> element defines a multi-line input field (a text area):
+
+Example
+<textarea name="message" rows="10" cols="30">
+The cat was playing in the garden.
+</textarea>
+
+
+
+Input Type Password
+<input type="password"> defines a password field:
+
+Example
+<form>
+  <label for="username">Username:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Password:</label><br>
+  <input type="password" id="pwd" name="pwd">
+</form>
+
+
+
+
+
+
+
+Input Type Email
+The <input type="email"> is used for input fields that should contain an e-mail address.
+
+Depending on browser support, the e-mail address can be automatically validated when submitted.
+
+Some smartphones recognize the email type, and add ".com" to the keyboard to match email input.
+
+Example
+<form>
+  <label for="email">Enter your email:</label>
+  <input type="email" id="email" name="email">
+</form>
+
+
+
+
+
+Input Type Url
+The <input type="url"> is used for input fields that should contain a URL address.
+
+Depending on browser support, the url field can be automatically validated when submitted.
+
+Some smartphones recognize the url type, and adds ".com" to the keyboard to match url input.
+
+Example
+<form>
+  <label for="homepage">Add your homepage:</label>
+  <input type="url" id="homepage" name="homepage">
+</form>
+
+
+<hr>
+
+# CSS Lists
+
+HTML Lists and CSS List Properties
+In HTML, there are two main types of lists:
+
+- unordered lists (<ul>) - the list items are marked with bullets
+- ordered lists (<ol>) - the list items are marked with numbers or letters
+  
+  
+*The CSS list properties allow you to:*
+
+- Set different list item markers for ordered lists
+- Set different list item markers for unordered lists
+- Set an image as the list item marker
+- Add background colors to lists and list items
+
+
+
+## Different List Item Markers
+The list-style-type property specifies the type of list item marker.
+
+The following example shows some of the available list item markers:
+
+Example
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+
+
+
+An Image as The List Item Marker
+The list-style-image property specifies an image as the list item marker:
+
+Example
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+
+
+
+
+
+***Position The List Item Markers***
+The list-style-position property specifies the position of the list-item markers (bullet points).
+
+Example
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-position: inside;
+}
+
+
+
+
+## CSS Borders
+
+The CSS border properties allow you to specify the style, width, and color of an element's border.
+
+
+
+CSS Border Style
+The border-style property specifies what kind of border to display.
+
+The following values are allowed:
+
+dotted - Defines a dotted border
+dashed - Defines a dashed border
+solid - Defines a solid border
+double - Defines a double border
+groove - Defines a 3D grooved border. The effect depends on the border-color value
+ridge - Defines a 3D ridged border. The effect depends on the border-color value
+inset - Defines a 3D inset border. The effect depends on the border-color value
+outset - Defines a 3D outset border. The effect depends on the border-color value
+none - Defines no border
+hidden - Defines a hidden border
+
+
+
+
+The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
+
+Example
+Demonstration of the different border styles:
+
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+
+
+
+# CSS cursor Property
+
+***Example
+CSS can generate a bunch of different mouse cursors:
+
+- alias {cursor: alias;}
+- all-scroll {cursor: all-scroll;}
+- auto {cursor: auto;}
+- cell {cursor: cell;}
+- context-menu {cursor: context-menu;}
+- col-resize {cursor: col-resize;}
+- copy {cursor: copy;}
+- crosshair {cursor: crosshair;}
+- default {cursor: default;}
+- e-resize {cursor: e-resize;}
+- ew-resize {cursor: ew-resize;}
+- grab {cursor: grab;}
+- grabbing {cursor: grabbing;}
+- help {cursor: help;}
+- move {cursor: move;}
+- n-resize {cursor: n-resize;}
+- ne-resize {cursor: ne-resize;}
+- nesw-resize {cursor: nesw-resize;}
+- ns-resize {cursor: ns-resize;}
+- nw-resize {cursor: nw-resize;}
+- nwse-resize {cursor: nwse-resize;}
+- no-drop {cursor: no-drop;}
+- none {cursor: none;}
+- not-allowed {cursor: not-allowed;}
+- pointer {cursor: pointer;}
+- progress {cursor: progress;}
+- row-resize {cursor: row-resize;}
+- s-resize {cursor: s-resize;}
+- se-resize {cursor: se-resize;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
