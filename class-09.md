@@ -351,10 +351,31 @@ CSS can generate a bunch of different mouse cursors:
 
 
 
+# Creating custom events
+Events can be created with the Event constructor as follows:
+
+const event = new Event('build');
+
+// Listen for the event.
+elem.addEventListener('build', function (e) { /* ... */ }, false);
+
+// Dispatch the event.
+elem.dispatchEvent(event);
 
 
 
 
+
+Adding custom data – CustomEvent()
+To add more data to the event object, the CustomEvent interface exists and the detail property can be used to pass custom data.
+For example, the event could be created as follows:
+
+const event = new CustomEvent('build', { detail: elem.dataset.time });
+This will then allow you to access the additional data in the event listener:
+
+function eventHandler(e) {
+  console.log('The time is: ' + e.detail);
+}
 
 
 
