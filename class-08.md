@@ -184,12 +184,10 @@ border-bottom: 1px solid #665544;}
 
 
 
+## Multiple Style Sheets
 
-
-
-
-
-
+***link***
+On this page you can see the other technique for including multiple style sheets. Inside the `<head>` element is a separate `<link>` element for each style sheet.
 
 
 
