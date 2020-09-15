@@ -1,7 +1,9 @@
 #  “FORMS , LISTS & TABLES ”
 
-## 1-The `<form>` Element
-*The HTML <form> element is used to create an HTML form for user input:*
+<hr>
+
+## The `<form>` Element
+*The HTML `<form>` element is used to create an HTML form for user input:*
   
 ``` ruby 
 <form>
@@ -11,25 +13,30 @@ form elements
 </form>
 ```
 
-The <input> Element
-The HTML <input> element is the most used form element.
 
-An `<input>` element can be displayed in many ways, depending on the type attribute.
+## The `<input>` Element
+
+***The HTML `<input>` element is the most used form element.***
+
+*An `<input>` element can be displayed in many ways, depending on the type attribute.*
 
 Here are some examples:
 
 Type	Description
-<input type="text">	Displays a single-line text input field
-<input type="radio">	Displays a radio button (for selecting one of many choices)
-<input type="checkbox">	Displays a checkbox (for selecting zero or more of many choices)
-<input type="submit">	Displays a submit button (for submitting the form)
-<input type="button">	Displays a clickable button
+
+|  Type	Description     |                                                               |
+|---------------------- |---------------------------------------------------------------|
+|<input type="text">    |	Displays a single-line text input field|
+|<input type="radio">  	|Displays a radio button (for selecting one of many choices)|
+|<input type="checkbox">|	Displays a checkbox (for selecting zero or more of many choices)  |
+|<input type="submit">	|Displays a submit button (for submitting the form)  |
+|<input type="button">  |	Displays a clickable button|
 
 
 
 
-# HTML Input Types
-Here are the different input types you can use in HTML:
+## HTML Input Types
+*Here are the different input types you can use in HTML:*
 
 
 ```
@@ -57,33 +64,30 @@ Here are the different input types you can use in HTML:
 `<input type="week">`
 ```
 
-Tip: The default value of the
 
 
 
 
-The <label> Element
-Notice the use of the <label> element in the example above.
+## The `<label>` Element
+*Notice the use of the <label> element in the example above.*
 
-The <label> tag defines a label for many form elements.
-
-The <label> element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
-
-The <label> element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the <label> element, it toggles the radio button/checkbox.
-
-The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together.
+> The <label> tag defines a label for many form elements.
+> The <label> element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
+> The <label> element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) 
+>   - because when the user clicks the text within the `<label>` element, it toggles the radio button/checkbox.
+> The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together.
 
 
 
 
 
-Radio Buttons
-The <input type="radio"> defines a radio button.
+## Radio Buttons
+***The `<input type="radio">` defines a radio button.***
 
-Radio buttons let a user select ONE of a limited number of choices.
+*Radio buttons let a user select ONE of a limited number of choices.*
 
-Example
-A form with radio buttons:
+*Example:*
+*A form with radio buttons:*
 
 ``` ruby 
 <form>
@@ -98,13 +102,14 @@ A form with radio buttons:
 
 
 
-Checkboxes
-The <input type="checkbox"> defines a checkbox.
+## Checkboxes
 
-Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+***The `<input type="checkbox">` defines a checkbox.***
 
-Example
-A form with checkboxes:
+*Checkboxes let a user select *ZERO* or *MORE* options of a limited number of choices.*
+
+*Example:*
+*A form with checkboxes:*
 
 ``` ruby 
 <form>
@@ -121,15 +126,14 @@ A form with checkboxes:
 
 
 
-The Submit Button
-The <input type="submit"> defines a button for submitting the form data to a form-handler.
+## The Submit Button
+***The `<input type="submit">` defines a button for submitting the form data to a form-handler.***
 
-The form-handler is typically a file on the server with a script for processing input data.
+> The form-handler is typically a file on the server with a script for processing input data.
+> The form-handler is specified in the form's action attribute.
 
-The form-handler is specified in the form's action attribute.
-
-Example
-A form with a submit button:
+*Example:*
+*A form with a submit button:*
 
 ``` ruby 
 <form action="/action_page.php">
@@ -145,10 +149,10 @@ A form with a submit button:
 
 
 
-The <textarea> Element
-The <textarea> element defines a multi-line input field (a text area):
+## The `<textarea>` Element
+***The `<textarea>` element defines a multi-line input field (a text area):***
 
-Example
+*Example*
 
 ``` ruby 
 <textarea name="message" rows="10" cols="30">
@@ -157,10 +161,10 @@ The cat was playing in the garden.
 ```
 
 
-Input Type Password
-<input type="password"> defines a password field:
+## Input Type Password
+***`<input type="password">` defines a password field:***
 
-Example
+*Example*
 
 ``` ruby 
 <form>
@@ -176,14 +180,13 @@ Example
 
 
 
-Input Type Email
-The <input type="email"> is used for input fields that should contain an e-mail address.
+## Input Type Email
+***The `<input type="email">` is used for input fields that should contain an e-mail address.***
 
-Depending on browser support, the e-mail address can be automatically validated when submitted.
+> Depending on browser support, the e-mail address can be automatically validated when submitted.
+> Some smartphones recognize the email type, and add ".com" to the keyboard to match email input.
 
-Some smartphones recognize the email type, and add ".com" to the keyboard to match email input.
-
-Example
+*Example*
 
 ``` ruby 
 <form>
@@ -195,12 +198,11 @@ Example
 
 
 
-Input Type Url
-The <input type="url"> is used for input fields that should contain a URL address.
+## Input Type Url
+***The `<input type="url">` is used for input fields that should contain a URL address.***
 
-Depending on browser support, the url field can be automatically validated when submitted.
-
-Some smartphones recognize the url type, and adds ".com" to the keyboard to match url input.
+> Depending on browser support, the url field can be automatically validated when submitted.
+> Some smartphones recognize the url type, and adds ".com" to the keyboard to match url input.
 
 Example
 
@@ -214,9 +216,6 @@ Example
 <hr>
 
 # CSS Lists
-
-HTML Lists and CSS List Properties
-In HTML, there are two main types of lists:
 
 - unordered lists (<ul>) - the list items are marked with bullets
 - ordered lists (<ol>) - the list items are marked with numbers or letters
@@ -232,11 +231,10 @@ In HTML, there are two main types of lists:
 
 
 ## Different List Item Markers
-The list-style-type property specifies the type of list item marker.
 
-The following example shows some of the available list item markers:
+*The list-style-type property specifies the type of list item marker.*
 
-Example
+*Example*
 
 ``` ruby 
 ul.a {
@@ -258,10 +256,10 @@ ol.d {
 
 
 
-An Image as The List Item Marker
-The list-style-image property specifies an image as the list item marker:
+***An Image as The List Item Marker***
+*The `list-style-image` property specifies an image as the list item marker:*
 
-Example
+*Example*
 
 ``` ruby 
 ul {
@@ -273,9 +271,9 @@ ul {
 
 
 ***Position The List Item Markers***
-The list-style-position property specifies the position of the list-item markers (bullet points).
+*The list-style-position property specifies the position of the list-item markers (bullet points).*
 
-Example
+*Example*
 
 ``` ruby 
 ul.a {
@@ -291,18 +289,15 @@ ul.b {
 
 ## CSS Borders
 
-The CSS border properties allow you to specify the style, width, and color of an element's border.
+***The CSS border properties allow you to specify the style, width, and color of an element's border.***
+> The border-style property specifies what kind of border to display.
 
 
+*The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).*
 
-CSS Border Style
-The border-style property specifies what kind of border to display.
+*Example:*
 
-
-The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
-
-Example
-Demonstration of the different border styles:
+> Demonstration of the different border styles:
 
 - p.dotted {border-style: dotted;}
 - p.dashed {border-style: dashed;}
@@ -339,20 +334,7 @@ Demonstration of the different border styles:
 - grabbing {cursor: grabbing;}
 - help {cursor: help;}
 - move {cursor: move;}
-- n-resize {cursor: n-resize;}
-- ne-resize {cursor: ne-resize;}
-- nesw-resize {cursor: nesw-resize;}
-- ns-resize {cursor: ns-resize;}
-- nw-resize {cursor: nw-resize;}
-- nwse-resize {cursor: nwse-resize;}
-- no-drop {cursor: no-drop;}
-- none {cursor: none;}
-- not-allowed {cursor: not-allowed;}
-- pointer {cursor: pointer;}
-- progress {cursor: progress;}
-- row-resize {cursor: row-resize;}
-- s-resize {cursor: s-resize;}
-- se-resize {cursor: se-resize;}
+
 
 
 
@@ -363,7 +345,6 @@ Demonstration of the different border styles:
 
 ![](https://thumbs.gfycat.com/SoupyPeriodicAkitainu-size_restricted.gif)
 
-Events can be created with the Event constructor as follows:
 
 
 ``` ruby 
@@ -377,22 +358,6 @@ elem.dispatchEvent(event);
 ```
 
 
-
-
-Adding custom data – CustomEvent()
-To add more data to the event object, the CustomEvent interface exists and the detail property can be used to pass custom data.
-For example, the event could be created as follows:
-
-const event = new CustomEvent('build', { detail: elem.dataset.time });
-This will then allow you to access the additional data in the event listener:
-
-```
-function eventHandler(e) {
-  console.log('The time is: ' + e.detail);
-}
-```
-
-
 <hr>
 
  # JavaScript HTML DOM EventListener
@@ -400,53 +365,49 @@ function eventHandler(e) {
 ***The addEventListener() method***
 
 
-Example
-Add an event listener that fires when a user clicks a button:
-
-document.getElementById("myBtn").addEventListener("click", displayDate);
-
-
-The `addEventListener()` method attaches an event handler to the specified element.
-The `addEventListener()` method attaches an event handler to an element without overwriting existing event handlers.
-You can add many event handlers to one element.
-You can add many event handlers of the same type to one element, i.e two "click" events.
-You can add event listeners to any DOM object not only HTML elements. i.e the window object.
-The `addEventListener()` method makes it easier to control how the event reacts to bubbling.
-When using the `addEventListener()` method, the JavaScript is separated from the HTML markup, for better readability and allows you to add event listeners even when you do not control the HTML markup.
-You can easily remove an event listener by using the `removeEventListener()` method.
+> Add an event listener that fires when a user clicks a button:
+>
+> document.getElementById("myBtn").addEventListener("click", displayDate);
+> ..
+> The `addEventListener()` method attaches an event handler to the specified element.
+> The `addEventListener()` method attaches an event handler to an element without overwriting existing event handlers.
 
 
 
 
 
-HTML Event Attributes
+
+## HTML Event Attributes
+
+*On this page I give a quick overview of the most important events, including compatibility information for modern browsers.*
+
+> All events named on this page are recognized by most browsers when they occur on certain HTML elements. 
+> This means that the browser looks if any event handling script is registered to the HTML element for this event. If there is such a script, it is executed immediately.
+
+ 
 
 
-On this page I give a quick overview of the most important events, including compatibility information for modern browsers.
-
-All events named on this page are recognized by most browsers when they occur on certain HTML elements. This means that the browser looks if any event handling script is registered to the HTML element for this event. If there is such a script, it is executed immediately.
-
-In the beginning there were only a few events. These events work in almost all JavaScript browsers, even in very old ones. Note that in those early days events worked on links and form fields, sometimes on then entire window, but not on many other HTML elements.
-
-
-
-Interface events
-Interface events are events that are not caused by user actions, but by the result of user actions.
-When the user clicks on any element he always causes a click event. When clicking on the element has special meaning, an additional interface event is caused.
-For instance, when the user clicks on a link his action causes a click event. Clicking on a link orders a new page to be loaded, though, so the result of this specific click event is the interface event unload.
-
-Other interface events are resize, scroll and focus/blur.
-
+***Interface events***
+*Interface events are events that are not caused by user actions, but by the result of user actions.
+***When the user clicks on any element he always causes a click event. When clicking on the element has special meaning, an additional interface event is caused.
+For instance, when the user clicks on a link his action causes a click event. Clicking on a link orders a new page to be loaded, though, so the result of this specific click event is the interface event unload.***
 
 
 
-Mouse events
-From Netscape 2 onwards all browsers recognize two events on links. When the user moves the mouse into the link area, the mouseover event fires. When he clicks on it the click event fires. Pretty soon after the mouseout event was added, which fires when the mouse leaves the link area. Thus the Traditional Triad of mouse events was formed.
+
+
+***Mouse events***
+*From Netscape 2 onwards all browsers recognize two events on links. When the user moves the mouse into the link area, the mouseover event fires.*
+*When he clicks on it the click event fires. Pretty soon after the mouseout event was added, which fires when the mouse leaves the link area.*
+*Thus the Traditional Triad of mouse events was formed.*
 
 
 
-Form events
-Forms recognize the submit and reset events, which — predictably — fire when the user submits or resets a form. The submit event is the key of any form validation script. When the user submits the form, go through all form fields and see if he has filled in correct data. If you spot a mistake, stop the form submission and alert the user of the problem.
+***Form events***
+*Forms recognize the submit and reset events, which — predictably — fire when the user submits or resets a form.*
+*The submit event is the key of any form validation script.*
+*When the user submits the form, go through all form fields and see if he has filled in correct data. 
+*If you spot a mistake, stop the form submission and alert the user of the problem.*
 
 
 
