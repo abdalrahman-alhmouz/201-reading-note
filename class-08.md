@@ -152,27 +152,35 @@ border-bottom: 1px solid #665544;}
 ```
 
 
+<hr>
+
+ ## Creating multip-column layouts with floats
+
+
+> Many web pages use multiple columns in their design. This is achieved by using a <div> element to represent each column. The following three CSS properties are used to position the columns next to each other:
+
+***width***
+*This sets the width of the columns.*
+***float***
+*This positions the columns next to each other.*
+***margin***
+*This creates a gap between the columns.*
+
+
+## Screen Sizes
+> Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+
+## Screen Resolution
+> Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
+
+## How to Create a Fixed-Width Layout with CSS
+> A "fixed-width" layout is one in which the layout of the page is contained within a wrapper that doesn't adjust its size when the width of the browser changes.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Liquid layout example
+*Combination liquid and fixed layouts*
+> Similar to liquid layouts, except one or more of the containers on the page have fixed widths.
 
 
 
