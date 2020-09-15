@@ -304,24 +304,25 @@ The border-style property can have from one to four values (for the top border, 
 Example
 Demonstration of the different border styles:
 
-p.dotted {border-style: dotted;}
-p.dashed {border-style: dashed;}
-p.solid {border-style: solid;}
-p.double {border-style: double;}
-p.groove {border-style: groove;}
-p.ridge {border-style: ridge;}
-p.inset {border-style: inset;}
-p.outset {border-style: outset;}
-p.none {border-style: none;}
-p.hidden {border-style: hidden;}
-p.mix {border-style: dotted dashed solid double;}
+- p.dotted {border-style: dotted;}
+- p.dashed {border-style: dashed;}
+- p.solid {border-style: solid;}
+- p.double {border-style: double;}
+- p.groove {border-style: groove;}
+- p.ridge {border-style: ridge;}
+- p.inset {border-style: inset;}
+- p.outset {border-style: outset;}
+- p.none {border-style: none;}
+- p.hidden {border-style: hidden;}
+- p.mix {border-style: dotted dashed solid double;}
 
 
 
 # CSS cursor Property
 
-***Example
-CSS can generate a bunch of different mouse cursors:
+***Example***
+
+*CSS can generate a bunch of different mouse cursors:*
 
 - alias {cursor: alias;}
 - all-scroll {cursor: all-scroll;}
