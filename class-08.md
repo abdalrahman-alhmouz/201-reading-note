@@ -39,9 +39,11 @@ There are five different position values:
 > property in CSS. You can also float elements using the float property. <br>
 
 
+![](https://www.gurukulzone.com/css/images/d.png)
+
+
 ## 1-Normal flow
 
-![](https://www.gurukulzone.com/css/images/d.png)
 
 *HTML elements are positioned static by default.*
 
@@ -103,7 +105,9 @@ div.absolute {
   border: 3px solid #73AD21;
 }
 ``` 
-<br>
+
+<hr>
+
 ``` ruby
 h1 {
 position: absolute;
