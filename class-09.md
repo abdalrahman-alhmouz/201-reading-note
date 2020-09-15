@@ -360,6 +360,9 @@ Demonstration of the different border styles:
 
 
 # Creating custom events
+
+![](https://thumbs.gfycat.com/SoupyPeriodicAkitainu-size_restricted.gif)
+
 Events can be created with the Event constructor as follows:
 
 
