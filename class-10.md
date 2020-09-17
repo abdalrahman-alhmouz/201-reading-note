@@ -1,9 +1,16 @@
-What is Debugging
-Debugging is a process for testing, finding the errors and reducing them from happening in future. Debugging JavaScript either requires having support for JavaScript debugger keyword, breakpoint support with web browser tools, or third-party tools. These tools range from browser plugins like Augury which is an Angular development and debugging extension for Chrome, third-party tools & more. It is also possible to use ‘debugger’ keyword support (depending on the browser type and version) and to freeze the code at a given point and investigate the issue. Let us look at few popular debugging and error handling tools.
+# What is Debugging
+
+> Debugging is a process for testing, finding the errors and reducing them from happening in future.
+> Debugging JavaScript either requires having support for JavaScript debugger
+> keyword, breakpoint support with web browser tools, or third-party tools.
+> These tools range from browser plugins like Augury which is an Angular development and debugging 
+> extension for Chrome, third-party tools & more. It is also possible to use ‘debugger’ keyword support
+> (depending on the browser type and version) and to freeze the code at a >given point and investigate the issue. 
+> Let us look at few popular debugging and error handling tools.
 
 
 
-Why errors happened ?
+# Why errors happened ?
 some times the excution order can be the reason to have an error, because some asks cannot complete until another statement or function has been run in a certain order.
 
 
