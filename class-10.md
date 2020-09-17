@@ -99,7 +99,21 @@ Each time a script enters a new execution context, there are two phases of activ
 ![](https://github.com/batoolalomari/201readingNote/raw/master/ho.png)
 
 
+HANDLING EXCEPTIONS
+If you know your code might fail, use try, catch, and finally. Each one is given its own code block.
 
+
+           ``` ruby
+           try {
+               // Try to execute this code
+               
+           }catch (exception) {
+               // If there is an exception, run this code
+               
+           }fina ll y {
+              // This always gets executed
+           }
+           ```
 
 
 
