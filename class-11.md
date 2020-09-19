@@ -2,6 +2,8 @@
 
 > *Sometimes, it is required to fit an image into a certain given dimension. We can resize the image by specifying the width and height of an image. A common solution is to use the max-width: 100%; and height: auto; so that large images do not exceed the width of their container. The max-width and max-height properties of CSS works better, but they are not supported in many browsers.And You can control the size of an image using the width and height properties in CSS,Specifying image sizes helps pages to load more smoothly because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.*
 
+![](https://www.miltonmarketing.com/wp-content/uploads/2018/03/mmhtmlimgtag424243image-tag-example.jpg)
+
 > The object-fit property is generally applied to image or video. This property defines how an element responds to the width and height of its container. Mainly there are five values of object-fit property such as fill, contain, cover, none, scale-down, initial, and inherit. The default value of this property is “fill”.
 
 
@@ -45,6 +47,8 @@ height: auto; }
 <hr>
 # Video and Audio
 
+~[](https://cdn-media-1.freecodecamp.org/images/1*jB3XGWVtrr8qOl21gCOAmQ.gif)
+
 *You can review what all the HTML features do in the article linked above; for our purposes here, the most interesting attribute is controls, which enables the default set of playback controls. If you don't specify this, you get no playback controls.*
 
 > It is a good idea to always include `width` and `height` attributes. If height and width are not set, the page might flicker while the video loads.
@@ -73,6 +77,7 @@ height: auto; }
 
 > *Here’s how it works: Google (or any search engine you’re using) has a crawler that goes out and gathers information about all the content they can find on the Internet. The crawlers bring all those 1s and 0s back to the search engine to build an index. That index is then fed through an algorithm that tries to match all that data with your query.*
 
+![](https://www.lyfemarketing.com/blog/wp-content/uploads/2018/09/2-1.png)
 
 
 
