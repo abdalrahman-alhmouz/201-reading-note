@@ -47,12 +47,22 @@ scroll: the background image moves up and down as the user scrolls up and down t
 
 > *Flash was once a very popular technology used to add animations, video and audio. All files created in Flash are referred to as Flash movies. These are created in a Flash authoring environment by Adobe. To be able to view these additions on the website, users need to install flash plugins and flash players. Flash movies have been replaced with the introduction of video sharing sites and HTML5.*
 
+*Example:*
+
+``` ruby
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+```
+
 
 
 # Search Engine Optimization (SEO)
 ***This is basically improving you websites visibility by applying some on- an off-page techniques.***
 
-![](https://img.favpng.com/18/15/15/search-engine-optimization-web-search-engine-digital-marketing-google-search-website-png-favpng-RTiYvB96N2UyHkgp5mbWUV5ue.jpg)
+![](https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png)
 
 > Search Engine Optimization (SEO): is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers. In order to determine who comes first in the search results, search engines do not only look at what appears on your site. They also consider how many sites link to you (and how relevant those links are).
 
