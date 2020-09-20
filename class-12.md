@@ -36,6 +36,7 @@
 *The markup looks like this:*
 
 `<canvas id="myCanvas" width="200" height="100"></canvas>`
+<br>
 Note: Always specify an id attribute (to be referred to in a script), and a width and height attribute to define the size of the canvas. To add a border, use the style attribute.
 
 ![](https://www.timo-ernst.net/wp-content/uploads/2018/11/particle-animation.gif)
