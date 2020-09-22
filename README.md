@@ -20,7 +20,8 @@
 |    Class 11       | [(Read-11) Assorted Topics](https://dana-kiswani.github.io/201-reading-note/class-11)                      | 
 |    Class 12       | [(Read-12) Docs for the HTML `<canvas> Element & Chart.js`](https://dana-kiswani.github.io/201-reading-note/class-12)   | 
 |    Class 13       | [(Read-13) Local Storage ](https://dana-kiswani.github.io/201-reading-note/class-13)                       | 
-|    Class 14       | [(Read-14) CSS Transforms, Transitions, and Animations](https://dana-kiswani.github.io/201-reading-note/class-14)  | 
+|    Class 14a      | [(Read-14) CSS Transforms, Transitions, and Animations](https://dana-kiswani.github.io/201-reading-note/class-14a)  | 
+|    Class 14b      | [(Read-14) CSS Transforms, Transitions, and Animations](https://dana-kiswani.github.io/201-reading-note/class-14b)  | 
 |    Class 15       | [(Read-15) What Google Learned About Teams](https://dana-kiswani.github.io/201-reading-note/class-15)      | 
 
 <hr>
